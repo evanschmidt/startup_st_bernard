@@ -21,14 +21,14 @@ Drupal.behaviors.my_custom_behavior = {
 
    // backstretch
     if(jQuery('body.front').length > 0){
-        $("#block-views-page-blocks-block-2").backstretch("/sites/default/files/images/page/bg.png");
-        $("#block-views-page-blocks-block-3").backstretch("/sites/default/files/images/page/our-dough.jpg");
-        $("#block-views-our-farmers-block-1").backstretch("/sites/default/files/images/page/field.jpg");
-        $("#block-block-11").backstretch([
-            "/sites/default/files/images/homepage/slider1.jpg"
-          , "/sites/default/files/images/homepage/slider2.jpg"
-          , "/sites/default/files/images/homepage/slider3.jpg"
-        ], {duration: 3000, fade: 750});
+//        $("#block-views-page-blocks-block-2").backstretch("/sites/default/files/images/page/bg.png");
+//        $("#block-views-page-blocks-block-3").backstretch("/sites/default/files/images/page/our-dough.jpg");
+//        $("#block-views-our-farmers-block-1").backstretch("/sites/default/files/images/page/field.jpg");
+//        $("#block-block-11").backstretch([
+//            "/sites/default/files/images/homepage/slider1.jpg"
+//          , "/sites/default/files/images/homepage/slider2.jpg"
+//          , "/sites/default/files/images/homepage/slider3.jpg"
+ //       ], {duration: 3000, fade: 750});
 
         //fullPage.js
         $('#fullpage').fullpage({
