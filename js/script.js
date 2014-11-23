@@ -34,15 +34,9 @@ Drupal.behaviors.my_custom_behavior = {
         $('#fullpage').fullpage({
             scrollingSpeed: 700,
             autoScrolling: false,
-            anchors:['welcome', 'hi-neighbor', 'instagram', 'our-story', 'our-team', 'how-we-roll', 'our-videos', 'our-farmers', 'our-contact', 'our-menu'],
-            navigationTooltips: ['welcome', 'hi-neighbor', 'instagram', 'our-story', 'our-team', 'how-we-roll', 'our-videos', 'our-farmers', 'our-contact', 'our-menu'],
+            anchors:['about', 'prize-package', 'startup', 'our-partners', 'our-team', 'register-to-attend'],
+            navigationTooltips: ['about', 'prize-package', 'startup', 'our-partners', 'register-to-attend'],
             verticalCentered: true,
-            paddingTop: '4em',
-            paddingBottom: '1em',
-            fixedElements: '#header',
-            resize : false,
-            css3: false,
-            responsize: 1
         });
     }
  
