@@ -133,3 +133,17 @@ function startup_st_bernard_preprocess_block(&$variables, $hook) {
   //}
 }
 // */
+function startup_st_bernard_menu_link(array $variables) {
+  $element = $variables['element'];
+  $sub_menu = '';
+  if ($element['#below']) {
+    $sub_menu = drupal_render($element['#below']);
+  }
+ 
+  if (isset($element['#localized_options']['fragment'])) {
+    $element['#attributes']['data-menuanchor'][] = $element['#localized_options']['fragment'];
+  }
+
+  $output = l($element['#title'], $element['#href'], $element['#localized_options']);
+  return '<li' . drupal_attributes($element['#attributes']) . '>' . $output . $sub_menu . "</li>\n";
+}
