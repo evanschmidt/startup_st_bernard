@@ -10,6 +10,12 @@
     display: none;
   }
 }
+.not-front {
+  #content {
+    width: 80%;
+    margin: auto;
+  }
+}
 #block-block-2 {
   background: none repeat scroll 0 0 $dark-blue;
   font-size: 1.5em;
@@ -75,7 +81,6 @@
  .about {
    .block__title {
     color: $aqua;
-    font-size: 1.5em;
     font-weight: bold;
     text-transform: uppercase;
    }  
@@ -86,7 +91,6 @@
     background: none repeat scroll 0 0 $aqua;
     color: white;
     text-align: center;
-    font-size: 2em;
     padding: 1em;
     span {
       color: $dark-blue;
@@ -163,12 +167,6 @@
     text-align: center;
     text-decoration: none;
    }
-}
-.not-front {
-  #content {
-    width: 80%;
-    margin: auto;
-  }
 }
 .section-enter {
   #main {
