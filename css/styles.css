@@ -1983,7 +1983,7 @@ tr.selected td {
 .enter-the-challenge a.enter-link {
   background: none repeat scroll 0 0 #f8e650;
   margin: auto;
-  padding: 1em;
+  padding: 0.5em;
   text-align: center;
   text-decoration: none;
 }
@@ -1991,7 +1991,7 @@ tr.selected td {
 .enter-the-challenge a.attend-link {
   background: none repeat scroll 0 0 #f8e650;
   margin: auto;
-  padding: 1em;
+  padding: 0.5em;
   text-align: center;
   text-decoration: none;
 }
