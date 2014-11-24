@@ -16,7 +16,7 @@
 		  <?php if ($title=="prize package"): ?>
 			    <h2<?php print $title_attributes; ?>>$110,000 Prize Package</h2>
 		  <?php else : ?>
-			    <h2<?php print $title_attributes; ?>><?php print $title; ?></h2>
+			    <h2<?php print $title_attributes; ?>><span><?php print $title; ?></span></h2>
 		  <?php endif; ?>
 	  <?php endif; ?>
 	  <?php print render($title_suffix); ?>
