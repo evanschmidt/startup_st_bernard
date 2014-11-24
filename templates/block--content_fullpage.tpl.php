@@ -13,7 +13,7 @@
 	  <?php print render($title_prefix); ?>
 	  <?php if ($title): ?>
 	  <?php	$title = str_replace("-", " ", $title); ?>
-		  <?php if ($title=="prize-package"): ?>
+		  <?php if ($title=="prize package"): ?>
 			    <h2<?php print $title_attributes; ?>>$110,000 Prize Package</h2>
 		  <?php else : ?>
 			    <h2<?php print $title_attributes; ?>><?php print $title; ?></h2>
