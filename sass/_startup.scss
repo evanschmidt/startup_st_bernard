@@ -135,9 +135,17 @@
     text-align: center;
     padding: 2em;
    }
-   a {
+   a.enter-link {
     background: none repeat scroll 0 0 $yellow;
+    display: block;
     text-align: center;
+    text-decoration: none;
+   }
+   a.attend-link {
+    background: none repeat scroll 0 0 $yellow;
+    display: block;
+    text-align: center;
+    text-decoration: none;
    }
 }
 // responsive grid layout
