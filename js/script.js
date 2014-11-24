@@ -36,9 +36,6 @@ Drupal.behaviors.my_custom_behavior = {
             autoScrolling: false,
             anchors:['about', 'prize-package', 'startup', 'our-partners', 'register-to-attend'],
             navigationTooltips: ['about', 'prize-package', 'startup', 'our-partners', 'register-to-attend']
-            verticalCentered: true,
-            paddingTop: '1em',
-            paddingBottom: '1em'
         });
     }
  
