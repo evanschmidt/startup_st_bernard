@@ -82,6 +82,9 @@
     background: none repeat scroll 0 0 $aqua;
     color: white;
     text-align: center;
+    span {
+      color: $dark-blue;
+    }
    }
    .left-side {
     width: 50%;
