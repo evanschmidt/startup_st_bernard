@@ -2005,7 +2005,7 @@ tr.selected td {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003164}}
-.section-enter #content {
+.section-enter #main {
   background: none repeat scroll 0 0 #e3f7f9;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003167}}
