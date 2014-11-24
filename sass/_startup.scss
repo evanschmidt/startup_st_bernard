@@ -21,6 +21,11 @@
     margin: 0;
   }
 }
+.front {
+  #page-title {
+    display: none;
+  }
+}
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
