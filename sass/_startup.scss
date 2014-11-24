@@ -166,7 +166,10 @@
   }
   .form-item-submitted-address-country {
     display: none;
-  }  
+  }
+  input:focus {
+    background: none repeat scroll 0 0 $light-aqua;
+  }
 }
 #footer {
   background: none repeat scroll 0 0 $dark-blue;
