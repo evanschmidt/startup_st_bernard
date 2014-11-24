@@ -1813,12 +1813,12 @@ tr.selected td {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000321}}
 #block-block-2 .top-enter {
   color: white;
-  float: right;
+  float: left;
   width: 25%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000326}}
 #block-block-2 .top-social {
-  float: right;
+  float: left;
   width: 25%;
 }
 
