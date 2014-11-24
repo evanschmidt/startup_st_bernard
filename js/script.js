@@ -21,14 +21,9 @@ Drupal.behaviors.my_custom_behavior = {
 
    // backstretch
     if(jQuery('body.front').length > 0){
- //      $("#block-block-3").backstretch("/sites/default/files/images/StartUpStBernard-logoBG.jpg");
+//       $("#block-block-3").backstretch("/sites/default/files/images/StartUpStBernard-logoBG.jpg");
 //       $(".how-it-works .block-title").backstretch("/sites/default/files/images/StartUpStBernard-worksBG.jpg");
-       $(".enter-the-challenge").backstretch("/sites/default/files/images/StartUpStBernard-registerBG.jpg");
-//        $("#block-block-11").backstretch([
-//            "/sites/default/files/images/homepage/slider1.jpg"
-//          , "/sites/default/files/images/homepage/slider2.jpg"
-//          , "/sites/default/files/images/homepage/slider3.jpg"
- //       ], {duration: 3000, fade: 750});
+//       $(".enter-the-challenge").backstretch("/sites/default/files/images/StartUpStBernard-registerBG.jpg");
 
         //fullPage.js
         $('#fullpage').fullpage({
