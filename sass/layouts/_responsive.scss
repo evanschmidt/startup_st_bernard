@@ -81,7 +81,7 @@ $zen-auto-include-item-base: false;
   $zen-column-count: 3;
   #block-block-2 {
     font-size: 1.5em;
-    height: auto;
+    height: 2em;
     padding: 1em;
     .top-title {
       clear: both;
@@ -89,12 +89,13 @@ $zen-auto-include-item-base: false;
     }
     .top-enter {
       float: left;
-      width: 25%;
+      width: 50%;
     }
     .top-social {
       float: left;
       margin-top: -0.5em;
-      width: 25%;
+      text-align: right;
+      width: 50%;
     }
   }
 
