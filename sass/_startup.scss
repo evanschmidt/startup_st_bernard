@@ -165,7 +165,11 @@
     display: none;
   }  
 }
-
+#footer {
+  background: none repeat scroll 0 0 $dark-blue;
+  color: white;
+  text-align: center;
+}
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
