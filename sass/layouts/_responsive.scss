@@ -99,6 +99,16 @@ $zen-auto-include-item-base: false;
       width: 50%;
     }
   }
+  .prize-package {
+     .left-side {
+      width: 100%;
+      float: none;
+     }
+     .right-side {
+      width: 100%;
+      float: none;
+     }
+  }
 
   /**
    * The layout when there is only one sidebar, the left one.
@@ -194,6 +204,16 @@ $zen-auto-include-item-base: false;
       margin-top: -0.5em;
       width: 25%;
     }
+  }
+  .prize-package {
+     .left-side {
+      width: 50%;
+      float: left;
+     }
+     .right-side {
+      width: 50%;
+      float: right;
+     }
   }
 
   /**
