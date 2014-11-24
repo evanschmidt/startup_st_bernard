@@ -161,6 +161,9 @@
   }
 }
 .section-enter {
+  #content {
+    background: none repeat scroll 0 0 $light-aqua;    
+  }
   .form-item-submitted-address-country {
     display: none;
   }  
