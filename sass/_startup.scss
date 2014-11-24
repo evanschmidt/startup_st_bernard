@@ -130,6 +130,8 @@
 .enter-the-challenge {
   background: url('/sites/default/files/images/StartUpStBernard-registerBG.jpg') no-repeat scroll bottom center $dark-blue;
   color: $aqua;
+  padding-bottom: 20em;
+  text-align: center;
    .block__title {
     color: $aqua;
     text-align: center;
@@ -140,12 +142,14 @@
     display: block;
     text-align: center;
     text-decoration: none;
+    width: 40%;
    }
    a.attend-link {
     background: none repeat scroll 0 0 $yellow;
     display: block;
     text-align: center;
     text-decoration: none;
+    width: 40%;
    }
 }
 // responsive grid layout
