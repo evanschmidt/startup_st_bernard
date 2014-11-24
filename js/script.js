@@ -29,8 +29,8 @@ Drupal.behaviors.my_custom_behavior = {
         $('#fullpage').fullpage({
             scrollingSpeed: 700,
             autoScrolling: false,
-            anchors:['about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
-            navigationTooltips: ['about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
+            anchors:['home', 'about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
+            navigationTooltips: ['home', 'about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
             verticalCentered: true,
             scrollOverflow: false,
             resize : false
