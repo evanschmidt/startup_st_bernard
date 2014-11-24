@@ -40,9 +40,6 @@
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
-    span {
-      background: none repeat scroll 0 0 $dark-blue;
-    }
    }  
 }
 .how-it-works {
@@ -53,6 +50,9 @@
       padding: 4em;
       text-transform: uppercase;
       text-align: center;
+      span {
+        background: none repeat scroll 0 0 $dark-blue;
+      }
     }  
 }
 #block-block-2 {
