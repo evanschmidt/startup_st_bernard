@@ -125,6 +125,8 @@ $tabs-border: #bbb;
 @import "compass/typography/vertical_rhythm";
 // Add the Zen Grids responsive layout mixins.
 @import "zen";
+//Add Zen Grids Background
+@import "zen/background";
 
 // Now we add our custom helper mixins.
 @import "mixins";
