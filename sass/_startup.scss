@@ -46,6 +46,9 @@
       padding-left: 10%;
       padding-right: 10%;
       margin: auto;
+      font-size: 1.5em;
+      font-weight: bold;
+      text-transform: uppercase;
    }
 }
  .block {
@@ -64,19 +67,13 @@
    .block__title {
     background: none repeat scroll 0 0 $aqua;
     color: white;
-    font-size: 1.5em;
-    font-weight: bold;
-    text-transform: uppercase;
     text-align: center;
    }  
 }
 .how-it-works {
    .block__title {
       color: white;
-      font-size: 1.5em;
-      font-weight: bold;
       padding: 4em;
-      text-transform: uppercase;
       text-align: center;
       span {
         background: none repeat scroll 0 0 $dark-blue;
@@ -86,6 +83,10 @@
 }
 .enter-the-challenge {
   background: none repeat scroll 0 0 $dark-blue;
+   .block__title {
+    color: $aqua;
+    text-align: center;
+   }  
 }
 // responsive grid layout
 .views-responsive-grid {
