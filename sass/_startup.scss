@@ -101,6 +101,13 @@
       }
     }  
 }
+.sponsors {
+  background: none repeat scroll 0 0 $light-aqua;  
+   .block__title {
+    color: white;
+    text-align: center;
+  }
+}
 .enter-the-challenge {
   background: url('/sites/default/files/images/StartUpStBernard-registerBG.jpg') no-repeat scroll bottom center $dark-blue;
   color: $aqua;
