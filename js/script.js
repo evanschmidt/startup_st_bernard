@@ -28,12 +28,14 @@ Drupal.behaviors.my_custom_behavior = {
         //fullPage.js
         $('#fullpage').fullpage({
             scrollingSpeed: 700,
-            autoScrolling: true,
+            autoScrolling: false,
             anchors:['home', 'about', 'prize-package', 'how-it-works', 'sponsors', 'enter-the-challenge'],
             navigationTooltips: ['home', 'about', 'prize-package', 'how-it-works', 'sponsors', 'enter-the-challenge'],
             verticalCentered: true,
             scrollOverflow: false,
-    	    resize : false
+    	    resize : false,
+            keyboardScrolling: true,
+            responsive: 480
         });
     }
 
