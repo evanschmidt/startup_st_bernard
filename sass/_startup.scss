@@ -134,7 +134,11 @@
     color: $aqua;
     text-align: center;
     padding: 2em;
-   }  
+   }
+   a {
+    background: none repeat scroll 0 0 $yellow;
+    text-align: center;
+   }
 }
 // responsive grid layout
 .views-responsive-grid {
