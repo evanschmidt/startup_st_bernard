@@ -87,9 +87,9 @@ $zen-auto-include-item-base: false;
     text-transform: uppercase;
     .top-title {
       color: $aqua;
-      float: left;
+      float: none;
       font-weight: 900;
-      width: 75%;
+      width: 100%;
       a {
         color: $aqua;
         text-decoration: none;
@@ -97,8 +97,8 @@ $zen-auto-include-item-base: false;
     }
     .top-enter {
       color: white;
-      float: left;
-      width: 25%;
+      float: none;
+      width: 100%;
       font-weight: 900;
       a {
         color: white;
@@ -106,9 +106,10 @@ $zen-auto-include-item-base: false;
       }
     }
     .top-social {
-      float: right;
+      clear: both;
+      float: none;
       margin-top: -0.5em;
-      width: 50%;
+      width: 100%;
     }
   }
 
