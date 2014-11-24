@@ -152,6 +152,11 @@
     text-decoration: none;
    }
 }
+.section-enter {
+  #content {
+    width: 80%;
+  }
+}
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
