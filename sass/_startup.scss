@@ -8,6 +8,14 @@
  .block {
   margin-bottom: 0;
  }
+ .about {
+   .block__title {
+    color: $aqua;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+   }  
+ }
 #block-block-2 {
   background: none repeat scroll 0 0 $dark-blue;
   font-size: 1.5em;
