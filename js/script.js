@@ -33,10 +33,6 @@ Drupal.behaviors.my_custom_behavior = {
             navigationTooltips: ['about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
             verticalCentered: true,
             resize : false,
-            paddingTop: '500px',
-            paddingBottom: '1em',
-            css3: false,
-            responsize: 1
         });
     }
 
