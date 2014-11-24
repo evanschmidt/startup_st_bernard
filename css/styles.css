@@ -1946,13 +1946,13 @@ tr.selected td {
 .how-it-works .block__title {
   background: url("/sites/default/files/images/StartUpStBernard-worksBG.jpg") repeat scroll 0 0 transparent;
   color: white;
-  padding: 4em;
+  padding: 3em;
   text-align: center;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003117}}
 .how-it-works .block__title span {
   background: none repeat scroll 0 0 #1e344d;
-  padding: 1em;
+  padding: 0.5em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003122}}
 .how-it-works li {
