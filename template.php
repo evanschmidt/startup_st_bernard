@@ -53,11 +53,13 @@ function startup_st_bernard_preprocess_html(&$variables, $hook) {
  *   The name of the template being rendered ("page" in this case.)
  */
 function startup_st_bernard_preprocess_page(&$variables, $hook) {
+  if ($variables['is_front']) {
     drupal_add_css(libraries_get_path('jquery.fullpage') . '/jquery.fullPage.css');
     drupal_add_js(libraries_get_path('jquery.fullpage') . '/vendors/jquery.slimscroll.min.js');
     drupal_add_js(libraries_get_path('jquery.fullpage') . '/vendors/jquery.easings.min.js');
     drupal_add_js(libraries_get_path('jquery.fullpage') . '/jquery.fullPage.js');
     drupal_add_js(libraries_get_path('jquery.backstretch') . '/jquery.backstretch.min.js');
+  }
 }
 // */
 
