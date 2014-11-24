@@ -5,7 +5,9 @@
  * Adds styles for Startup St. Bernard
  *
  */
-
+#block-block-3 {
+  text-align: center;
+}
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
