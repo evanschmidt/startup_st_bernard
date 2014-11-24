@@ -9,6 +9,34 @@
   #page-title {
     display: none;
   }
+#block-block-2 {
+  background: none repeat scroll 0 0 $dark-blue;
+  font-size: 1.5em;
+  height: 1em;
+  padding: 1em;
+  text-transform: uppercase;
+  .top-title {
+    color: $aqua;
+    float: left;
+    width: 50%;
+  }
+  .top-enter {
+    color: white;
+    float: left;
+    width: 25%;
+  }
+  .top-social {
+    float: left;
+    width: 25%;
+  }
+}
+#block-block-3 {
+  text-align: center;
+  p {
+    margin: 0;
+  }
+}
+
   .view {
     padding-left: 10%;
     padding-right: 10%;
@@ -56,32 +84,8 @@
       }
     }  
 }
-#block-block-2 {
+.enter-the-challange {
   background: none repeat scroll 0 0 $dark-blue;
-  font-size: 1.5em;
-  height: 1em;
-  padding: 1em;
-  text-transform: uppercase;
-  .top-title {
-    color: $aqua;
-    float: left;
-    width: 50%;
-  }
-  .top-enter {
-    color: white;
-    float: left;
-    width: 25%;
-  }
-  .top-social {
-    float: left;
-    width: 25%;
-  }
-}
-#block-block-3 {
-  text-align: center;
-  p {
-    margin: 0;
-  }
 }
 // responsive grid layout
 .views-responsive-grid {
