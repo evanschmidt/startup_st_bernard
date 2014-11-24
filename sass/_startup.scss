@@ -13,12 +13,17 @@
   font-size: 1.5em;
   padding: 1em;
   .top-title {
-  color: $aqua;
-  width: 50%
+    color: $aqua;
+    width: 50%;
   }
   .top-enter {
     color: white;
     float: right;
+    width: 25%;
+  }
+  .top-social {
+    float: right;
+    width: 25%;
   }
 }
 #block-block-3 {
