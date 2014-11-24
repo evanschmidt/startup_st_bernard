@@ -79,6 +79,38 @@ $zen-auto-include-item-base: false;
 @media all and (min-width: 480px) and (max-width: 959px) {
 
   $zen-column-count: 3;
+  #block-block-2 {
+    background: none repeat scroll 0 0 $dark-blue;
+    font-size: 1.5em;
+    height: 1em;
+    padding: 1em;
+    text-transform: uppercase;
+    .top-title {
+      color: $aqua;
+      float: none;
+      font-weight: 900;
+      width: 100%;
+      a {
+        color: $aqua;
+        text-decoration: none;
+      }
+    }
+    .top-enter {
+      color: white;
+      float: left;
+      width: 50%;
+      font-weight: 900;
+      a {
+        color: white;
+        text-decoration: none;
+      }
+    }
+    .top-social {
+      float: left;
+      margin-top: -0.5em;
+      width: 50%;
+    }
+  }
 
   /**
    * The layout when there is only one sidebar, the left one.
@@ -157,6 +189,38 @@ $zen-auto-include-item-base: false;
 @media all and (min-width: 960px) {
 
   $zen-column-count: 5;
+  #block-block-2 {
+    background: none repeat scroll 0 0 $dark-blue;
+    font-size: 1.5em;
+    height: 1em;
+    padding: 1em;
+    text-transform: uppercase;
+    .top-title {
+      color: $aqua;
+      float: left;
+      font-weight: 900;
+      width: 50%;
+      a {
+        color: $aqua;
+        text-decoration: none;
+      }
+    }
+    .top-enter {
+      color: white;
+      float: left;
+      width: 25%;
+      font-weight: 900;
+      a {
+        color: white;
+        text-decoration: none;
+      }
+    }
+    .top-social {
+      float: left;
+      margin-top: -0.5em;
+      width: 25%;
+    }
+  }
 
   /**
    * The layout when there is only one sidebar, the left one.
