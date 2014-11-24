@@ -31,8 +31,8 @@ Drupal.behaviors.my_custom_behavior = {
             autoScrolling: false,
             anchors:['home', 'about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
             navigationTooltips: ['home', 'about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
-            verticalCentered: false,
-            scrollOverflow: true,
+            verticalCentered: true,
+            scrollOverflow: false,
     	    resize : false
         });
     }
