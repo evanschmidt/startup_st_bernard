@@ -84,8 +84,8 @@ $zen-auto-include-item-base: false;
     height: 1em;
     padding: 1em;
     .top-title {
-      float: left;
-      width: 50%;
+      clear: both;
+      width: 100%;
     }
     .top-enter {
       float: left;
