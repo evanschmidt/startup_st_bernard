@@ -14,9 +14,11 @@
   <?php if ($title): ?>
   <?php	$title = str_replace("-", " ", $title); ?>
     <h2<?php print $title_attributes; ?>>
-  <?php if ($title=="prize-package"): ?>
-    <?php print $title; ?>
-  <?php endif; ?>
+	  <?php if ($title=="prize-package"): ?>
+	    <?php print $title; ?>
+	  <?php else; ?>
+	    <?php print $title; ?>
+	  <?php endif; ?>
     </h2>
   <?php endif; ?>
   <?php print render($title_suffix); ?>
