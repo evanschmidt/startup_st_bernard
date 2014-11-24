@@ -5,14 +5,23 @@
  * Adds styles for Startup St. Bernard
  *
  */
+ .front {
+  #page-title {
+    display: none;
+  }
+  .view {
+    width: 80%;
+    margin: auto;
+  }
+   .block__title {
+      width: 80%;
+      margin: auto;
+   }
+}
+
  .block {
   margin-bottom: 0;
  }
-.fp-tableCell {
-  width: 80%!important;
-  margin: auto;
- }
-
  .about {
    .block__title {
     color: $aqua;
@@ -46,11 +55,6 @@
   text-align: center;
   p {
     margin: 0;
-  }
-}
-.front {
-  #page-title {
-    display: none;
   }
 }
 // responsive grid layout
