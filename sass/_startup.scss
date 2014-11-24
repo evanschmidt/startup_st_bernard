@@ -140,16 +140,18 @@
    a.enter-link {
     background: none repeat scroll 0 0 $yellow;
     display: block;
+    margin: auto;
     text-align: center;
     text-decoration: none;
-    width: 40%;
+    width: 250px;
    }
    a.attend-link {
     background: none repeat scroll 0 0 $yellow;
     display: block;
+    margin: auto;
     text-align: center;
     text-decoration: none;
-    width: 40%;
+    width: 250px;
    }
 }
 // responsive grid layout
