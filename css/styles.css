@@ -689,9 +689,9 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/layouts\/_responsive\.scss}line{font-family:\0000388}}
   #block-block-2 .top-title {
     color: #4bdff7;
-    float: none;
+    float: left;
     font-weight: 900;
-    width: 100%;
+    width: 75%;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/layouts\/_responsive\.scss}line{font-family:\0000393}}
   #block-block-2 .top-title a {
@@ -702,7 +702,7 @@ table {
   #block-block-2 .top-enter {
     color: white;
     float: left;
-    width: 50%;
+    width: 25%;
     font-weight: 900;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/layouts\/_responsive\.scss}line{font-family:\00003103}}
