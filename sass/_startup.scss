@@ -158,6 +158,12 @@
     margin: auto;
   }
 }
+.section-enter {
+  .form-item-submitted-address-country {
+    display: none;
+  }  
+}
+
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
