@@ -93,16 +93,24 @@
    }
 }
 .how-it-works {
-   .block__title {
-      background: url('/sites/default/files/images/StartUpStBernard-worksBG.jpg') repeat scroll 0 0 transparent;
-      color: white;
-      padding: 4em;
-      text-align: center;
+ .block__title {
+    background: url('/sites/default/files/images/StartUpStBernard-worksBG.jpg') repeat scroll 0 0 transparent;
+    color: white;
+    padding: 4em;
+    text-align: center;
       span {
         background: none repeat scroll 0 0 $dark-blue;
         padding: 1em;
       }
-    }  
+  }
+  li {
+    color: $light-aqua;
+    font-size: 1.5em;
+    font-weight: bold;
+    p {
+      color: $dark-blue;
+    }
+  }
 }
 .sponsors {
   background: none repeat scroll 0 0 $aqua;  
