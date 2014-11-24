@@ -22,7 +22,7 @@ Drupal.behaviors.my_custom_behavior = {
    // backstretch
     if(jQuery('body.front').length > 0){
        $("#block-block-3").backstretch("/sites/default/files/images/StartUpStBernard-logoBG.jpg");
-//        $("#block-views-page-blocks-block-3").backstretch("/sites/default/files/images/page/our-dough.jpg");
+       $(".how-it-works .block-title").backstretch("/sites/default/files/images/StartUpStBernard-worksBG.jpg");
 //        $("#block-views-our-farmers-block-1").backstretch("/sites/default/files/images/page/field.jpg");
 //        $("#block-block-11").backstretch([
 //            "/sites/default/files/images/homepage/slider1.jpg"
