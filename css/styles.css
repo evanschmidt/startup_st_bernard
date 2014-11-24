@@ -1801,7 +1801,7 @@ tr.selected td {
 #block-block-2 {
   background: none repeat scroll 0 0 #1e344d;
   font-size: 1.5em;
-  padding: 1em;
+  height: 1em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000315}}
 #block-block-2 .top-title {
