@@ -5,9 +5,15 @@
  * Adds styles for Startup St. Bernard
  *
  */
+ .block {
+  margin-bottom: 0;
+ }
 #block-block-2 {
-  background: $dark-blue;
+  background: none repeat scroll 0 0 $dark-blue;
   color: $aqua;
+  p {
+    margin: 0;
+  }
 }
 #block-block-3 {
   text-align: center;
