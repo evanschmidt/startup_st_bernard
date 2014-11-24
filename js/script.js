@@ -32,7 +32,8 @@ Drupal.behaviors.my_custom_behavior = {
             anchors:['about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
             navigationTooltips: ['about', 'prize-package', 'how-it-works', 'enter-the-challenge', 'our-partners', 'register-to-attend'],
             verticalCentered: true,
-            resize : false,
+            scrollOverflow: false,
+            resize : false
         });
     }
 
