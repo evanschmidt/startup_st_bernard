@@ -35,10 +35,10 @@ Drupal.behaviors.my_custom_behavior = {
 
         //Navigation
         menu: false,
-        anchors:['firstSlide', 'secondSlide'],
+        anchors:[],
         navigation: false,
         navigationPosition: 'right',
-        navigationTooltips: ['firstSlide', 'secondSlide'],
+        navigationTooltips: [],
         slidesNavigation: true,
         slidesNavPosition: 'bottom',
 
@@ -66,8 +66,8 @@ Drupal.behaviors.my_custom_behavior = {
         verticalCentered: true,
         resize : true,
         sectionsColor : ['#ccc', '#fff'],
-        paddingTop: '3em',
-        paddingBottom: '10px',
+        paddingTop: '1em',
+        paddingBottom: '1em',
         fixedElements: '#header, .footer',
         responsive: 0,
 
@@ -82,7 +82,6 @@ Drupal.behaviors.my_custom_behavior = {
         afterResize: function(){},
         afterSlideLoad: function(anchorLink, index, slideAnchor, slideIndex){},
         onSlideLeave: function(anchorLink, index, slideIndex, direction){}
-
 
         });
     }
