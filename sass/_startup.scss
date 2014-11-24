@@ -136,7 +136,7 @@
    .block__title {
     color: $aqua;
     text-align: center;
-    padding: 2em;
+    padding: 0;
    }
    a {
     color: $aqua;
@@ -147,6 +147,7 @@
    a.enter-link {
     background: none repeat scroll 0 0 $yellow;
     color: $dark-blue;
+    display: block;
     margin: auto;
     padding: 1.5em;
     text-align: center;
