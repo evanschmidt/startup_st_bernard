@@ -40,6 +40,9 @@
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
+    span {
+      background: none repeat scroll 0 0 $dark-blue;
+    }
    }  
 }
 .how-it-works {
