@@ -1803,40 +1803,41 @@ tr.selected td {
   font-size: 1.5em;
   height: 1em;
   padding: 1em;
+  text-transform: uppercase;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000317}}
 #block-block-2 .top-title {
   color: #4bdff7;
   float: left;
   width: 50%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000322}}
 #block-block-2 .top-enter {
   color: white;
   float: left;
   width: 25%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000327}}
 #block-block-2 .top-social {
   float: left;
   width: 25%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000332}}
 #block-block-3 {
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000334}}
 #block-block-3 p {
   margin: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000339}}
 .front #page-title {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000344}}
 .views-responsive-grid {
   padding-left: 0px;
   padding-right: 0px;
@@ -1856,24 +1857,24 @@ tr.selected td {
   clear: both;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000348}}
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000351}}
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000354}}
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 50%;
   margin-left: 0%;
   margin-right: -50%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000357}}
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 50%;
@@ -1881,26 +1882,26 @@ tr.selected td {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000361}}
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000364}}
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 33.33333%;
   margin-left: 0%;
   margin-right: -33.33333%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000367}}
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 33.33333%;
   margin-left: 33.33333%;
   margin-right: -66.66667%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000370}}
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 33.33333%;
@@ -1908,33 +1909,33 @@ tr.selected td {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000374}}
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000378}}
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 25%;
   margin-left: 0%;
   margin-right: -25%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000381}}
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 25%;
   margin-left: 25%;
   margin-right: -50%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000384}}
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 25%;
   margin-left: 50%;
   margin-right: -75%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000386}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000387}}
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 25%;
@@ -1942,40 +1943,40 @@ tr.selected td {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000391}}
 .views-responsive-grid.views-columns-5 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000395}}
 .views-responsive-grid.views-columns-5 .views-column-1 {
   float: left;
   width: 20%;
   margin-left: 0%;
   margin-right: -20%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\0000398}}
 .views-responsive-grid.views-columns-5 .views-column-2 {
   float: left;
   width: 20%;
   margin-left: 20%;
   margin-right: -40%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003100}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003101}}
 .views-responsive-grid.views-columns-5 .views-column-3 {
   float: left;
   width: 20%;
   margin-left: 40%;
   margin-right: -60%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003103}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003104}}
 .views-responsive-grid.views-columns-5 .views-column-4 {
   float: left;
   width: 20%;
   margin-left: 60%;
   margin-right: -80%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/_startup\.scss}line{font-family:\00003107}}
 .views-responsive-grid.views-columns-5 .views-column-5 {
   float: left;
   width: 20%;
