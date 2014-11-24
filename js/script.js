@@ -37,8 +37,8 @@ Drupal.behaviors.my_custom_behavior = {
             anchors:['about', 'prize-package', 'enter-the-challange', 'our-partners', 'register-to-attend'],
             navigationTooltips: ['about', 'prize-package', 'enter-the-challange', 'our-partners', 'register-to-attend'],
             verticalCentered: true,
-            paddingTop: '0',
-            paddingBottom: '0',
+            paddingTop: '3em',
+            paddingBottom: '1em',
             resize : false,
             css3: false,
             responsize: 1
