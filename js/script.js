@@ -35,7 +35,7 @@ Drupal.behaviors.my_custom_behavior = {
             scrollOverflow: false,
     	    resize : false,
             keyboardScrolling: true,
-            responsive: 960
+            responsive: 0
         });
     }
 
