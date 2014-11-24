@@ -16,6 +16,26 @@
     margin: auto;
   }
 }
+#block-block-2 {
+  background: none repeat scroll 0 0 $dark-blue;
+  text-transform: uppercase;
+  .top-title {
+    color: $aqua;
+    font-weight: 900;
+    a {
+      color: $aqua;
+      text-decoration: none;
+    }
+  }
+  .top-enter {
+    color: white;
+    font-weight: 900;
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+}
 #block-block-3, .welcome {
   background: url('/sites/default/files/images/StartUpStBernard-logoBG.jpg') repeat scroll top center transparent;
   text-align: center;
