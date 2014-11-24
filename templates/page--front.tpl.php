@@ -7,6 +7,7 @@
  * @see https://drupal.org/node/1728148
  */
 ?>
+<div id="fullpage">
 <div id="page">
     <?php if ($page['header']): ?>
       <header class="header" id="header" role="banner">
@@ -50,7 +51,6 @@
       </header>
     <?php endif; ?>
     <div id="main">
-    <div id="fullpage">
       <div id="content" class="column" role="main">
         <?php print render($page['highlighted']); ?>
         <?php print $breadcrumb; ?>
@@ -68,7 +68,6 @@
         <?php endif; ?>
         <?php print render($page['content_fullpage']); ?>
         <?php print $feed_icons; ?>
-      </div>
       </div>
       <?php
         // Render the sidebars to see if there's anything in them.
@@ -88,3 +87,5 @@
     <?php print render($page['footer']); ?>
 </div>
 <?php print render($page['bottom']); ?>
+</div>
+
