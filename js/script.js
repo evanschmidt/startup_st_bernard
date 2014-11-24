@@ -38,11 +38,7 @@ Drupal.behaviors.my_custom_behavior = {
             navigationTooltips: ['about', 'prize-package', 'startup', 'our-partners', 'register-to-attend']
             verticalCentered: true,
             paddingTop: '1em',
-            paddingBottom: '1em',
-            fixedElements: '#header',
-            resize : false,
-            css3: false,
-            responsize: 1
+            paddingBottom: '1em'
         });
     }
  
