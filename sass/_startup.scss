@@ -10,15 +10,16 @@
     display: none;
   }
   .view {
-    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
     margin: auto;
   }
    .block__title {
-      width: 80%;
+      padding-left: 10%;
+      padding-right: 10%;
       margin: auto;
    }
 }
-
  .block {
   margin-bottom: 0;
  }
@@ -30,6 +31,15 @@
     text-transform: uppercase;
    }  
  }
+.prize-package {
+   .block__title {
+    background: none repeat scroll 0 0 $aqua;
+    color: $dark-blue;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+   }  
+}
 #block-block-2 {
   background: none repeat scroll 0 0 $dark-blue;
   font-size: 1.5em;
