@@ -45,7 +45,7 @@ ul {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/layouts\/_responsive\.scss}line{font-family:\0000382}}
   #block-block-2 {
     font-size: 1.5em;
-    height: 1em;
+    height: auto;
     padding: 1em;
   }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/startupstbernard\/drupal-dev\/sites\/all\/themes\/startup_st_bernard\/sass\/layouts\/_responsive\.scss}line{font-family:\0000386}}
