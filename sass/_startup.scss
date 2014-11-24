@@ -35,10 +35,13 @@
     width: 25%;
   }
 }
-#block-block-3 {
+#block-block-3, .welcome {
   background: url('/sites/default/files/images/StartUpStBernard-logoBG.jpg') repeat scroll top center transparent;
   text-align: center;
   height: 528px;
+  .block-title {
+    display: none;
+  }
   p {
     margin: 0;
   }
