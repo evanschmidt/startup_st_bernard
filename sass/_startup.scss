@@ -5,12 +5,6 @@
  * Adds styles for Startup St. Bernard
  *
  */
- body {
-  color: $dark-blue;
- }
- a {
-  color: $dark-blue;
- }
 .front {
   #page-title {
     display: none;
@@ -139,6 +133,7 @@
    .block__title {
     color: $aqua;
     text-align: center;
+    padding: 2em;
    }  
 }
 // responsive grid layout

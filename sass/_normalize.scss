@@ -124,6 +124,7 @@ html {
 
 /* Remove default margin. */
 body {
+  color: $dark-blue;
   margin: 0;
   padding: 0;
 }
@@ -135,13 +136,17 @@ body {
  * http://meyerweb.com/eric/thoughts/2007/06/11/who-ordered-the-link-states
  */
 a:link {
+  color: $dark-blue;
 }
 a:visited {
+  color: $dark-blue;
 }
 a:hover,
 a:focus {
+  color: $dark-blue;
 }
 a:active {
+  color: $dark-blue;
 }
 
 /* Address `outline` inconsistency between Chrome and other browsers. */
