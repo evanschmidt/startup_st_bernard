@@ -79,7 +79,15 @@
     background: none repeat scroll 0 0 $aqua;
     color: white;
     text-align: center;
-   }  
+   }
+   .left-side {
+    width: 50%;
+    float: left;
+   }
+   .right-side {
+    width: 50%;
+    float: right;
+   }
 }
 .how-it-works {
    .block__title {
