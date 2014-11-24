@@ -42,8 +42,7 @@ Drupal.behaviors.my_custom_behavior = {
             responsize: 1
         });
     }
- 
-
+    
   }
 };
 
