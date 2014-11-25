@@ -55,6 +55,7 @@ $zen-auto-include-item-base: false;
   @include zen-grid-container();
 }
 .how-it-works {
+  display: none;
   .block__title {
     padding: 3em;
     span {
