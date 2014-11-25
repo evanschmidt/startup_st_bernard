@@ -55,7 +55,7 @@ $zen-auto-include-item-base: false;
   @include zen-grid-container();
 }
 .how-it-works {
-  width: 80%;
+  width: 80%!important;
   .block__title {
     span {
       display: block;
