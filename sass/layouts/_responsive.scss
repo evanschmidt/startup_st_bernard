@@ -54,6 +54,13 @@ $zen-auto-include-item-base: false;
 #footer {
   @include zen-grid-container();
 }
+.how-it-works {
+  .block__title {
+    span {
+      display: block;
+    }
+  }
+}
 
 /* Navigation bar */
 @media all and (min-width: 480px) {
@@ -68,13 +75,6 @@ $zen-auto-include-item-base: false;
     top: 0;
     height: $nav-height;
     width: $zen-grid-width;
-  }
-  .how-it-works {
-    .block__title {
-      span {
-        display: block;
-      }
-    }
   }
 }
 
