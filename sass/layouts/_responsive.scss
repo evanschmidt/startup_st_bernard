@@ -234,12 +234,11 @@ $zen-auto-include-item-base: false;
   .how-it-works {
     .block__title {
       padding: 3em;
-      span {
-        padding: 0.5em;
-      }
+        span {
+          padding: 0.5em;
+        }
     }
   }
-
   /**
    * The layout when there is only one sidebar, the left one.
    */
