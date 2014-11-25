@@ -667,7 +667,7 @@ table {
 }
 /* line 66, ../sass/layouts/_responsive.scss */
 .how-it-works ol {
-  margin: 2em 0;
+  margin: 2em -1em 0 0;
   padding: 0;
 }
 
