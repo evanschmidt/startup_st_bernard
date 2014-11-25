@@ -656,16 +656,13 @@ table {
   clear: both;
 }
 
-/* line 57, ../sass/layouts/_responsive.scss */
-.how-it-works {
-  width: 80% !important;
-}
-/* line 60, ../sass/layouts/_responsive.scss */
+/* line 59, ../sass/layouts/_responsive.scss */
 .how-it-works .block__title span {
   display: block;
 }
-/* line 64, ../sass/layouts/_responsive.scss */
+/* line 63, ../sass/layouts/_responsive.scss */
 .how-it-works ol {
+  width: 80%;
   padding: 0;
   margin: 1em 0 0 0;
 }
