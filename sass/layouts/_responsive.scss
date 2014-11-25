@@ -54,25 +54,6 @@ $zen-auto-include-item-base: false;
 #footer {
   @include zen-grid-container();
 }
-.how-it-works {
-  display: none!important;
-  .block__title {
-    padding: 1em;
-    span {
-      display: block;
-    }
-  }
-  ol {
-    padding: 0;
-  }
-  li {
-    font-size: 1em;
-    p {
-      font-size: 0.75em;
-      margin-top: 0.25em;
-    }
-  }    
-}
 
 /* Navigation bar */
 @media all and (min-width: 480px) {
