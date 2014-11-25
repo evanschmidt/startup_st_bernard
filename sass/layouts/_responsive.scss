@@ -100,6 +100,12 @@ $zen-auto-include-item-base: false;
     }
   }
   .prize-package {
+    .block__title {
+      span {
+        display: block;
+      }
+
+    }
      .left-side {
       width: 100%;
       float: none;
