@@ -2155,35 +2155,36 @@ tr.selected td {
 .sponsors .view img {
   margin: 0.25em;
   width: auto;
+  max-width: none;
 }
 
-/* line 147, ../sass/_startup.scss */
+/* line 148, ../sass/_startup.scss */
 .enter-the-challenge {
   background: url("/sites/default/files/images/StartUpStBernard-registerBG.jpg") no-repeat scroll bottom center #1e344d;
   color: #4bdff7;
   padding-bottom: 20em;
   text-align: center;
 }
-/* line 152, ../sass/_startup.scss */
+/* line 153, ../sass/_startup.scss */
 .enter-the-challenge .block__title {
   color: #4bdff7;
   text-align: center;
   padding: 0;
 }
-/* line 156, ../sass/_startup.scss */
+/* line 157, ../sass/_startup.scss */
 .enter-the-challenge .block__title span {
   color: #4bdff7;
 }
-/* line 160, ../sass/_startup.scss */
+/* line 161, ../sass/_startup.scss */
 .enter-the-challenge a {
   color: #4bdff7;
 }
-/* line 163, ../sass/_startup.scss */
+/* line 164, ../sass/_startup.scss */
 .enter-the-challenge span {
   color: white;
   font-weight: 900;
 }
-/* line 167, ../sass/_startup.scss */
+/* line 168, ../sass/_startup.scss */
 .enter-the-challenge a.enter-link {
   background: none repeat scroll 0 0 #f8e650;
   color: #1e344d;
@@ -2193,7 +2194,7 @@ tr.selected td {
   text-decoration: none;
   width: 40%;
 }
-/* line 176, ../sass/_startup.scss */
+/* line 177, ../sass/_startup.scss */
 .enter-the-challenge a.attend-link {
   background: none repeat scroll 0 0 #f8e650;
   color: #1e344d;
@@ -2203,20 +2204,20 @@ tr.selected td {
   text-decoration: none;
 }
 
-/* line 186, ../sass/_startup.scss */
+/* line 187, ../sass/_startup.scss */
 .section-enter #main {
   background: none repeat scroll 0 0 #e3f7f9;
 }
-/* line 189, ../sass/_startup.scss */
+/* line 190, ../sass/_startup.scss */
 .section-enter .form-item-submitted-address-country {
   display: none;
 }
-/* line 192, ../sass/_startup.scss */
+/* line 193, ../sass/_startup.scss */
 .section-enter input:focus {
   background: none repeat scroll 0 0 #f8e650;
 }
 
-/* line 196, ../sass/_startup.scss */
+/* line 197, ../sass/_startup.scss */
 #footer {
   background: none repeat scroll 0 0 #1e344d;
   color: white;
@@ -2224,7 +2225,7 @@ tr.selected td {
   text-align: center;
 }
 
-/* line 203, ../sass/_startup.scss */
+/* line 204, ../sass/_startup.scss */
 .views-responsive-grid {
   padding-left: 0px;
   padding-right: 0px;
@@ -2244,24 +2245,24 @@ tr.selected td {
   clear: both;
 }
 
-/* line 207, ../sass/_startup.scss */
+/* line 208, ../sass/_startup.scss */
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-/* line 210, ../sass/_startup.scss */
+/* line 211, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 213, ../sass/_startup.scss */
+/* line 214, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 50%;
   margin-left: 0%;
   margin-right: -50%;
 }
-/* line 216, ../sass/_startup.scss */
+/* line 217, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 50%;
@@ -2269,26 +2270,26 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 220, ../sass/_startup.scss */
+/* line 221, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 223, ../sass/_startup.scss */
+/* line 224, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 33.33333%;
   margin-left: 0%;
   margin-right: -33.33333%;
 }
-/* line 226, ../sass/_startup.scss */
+/* line 227, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 33.33333%;
   margin-left: 33.33333%;
   margin-right: -66.66667%;
 }
-/* line 229, ../sass/_startup.scss */
+/* line 230, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 33.33333%;
@@ -2296,33 +2297,33 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 233, ../sass/_startup.scss */
+/* line 234, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 238, ../sass/_startup.scss */
+/* line 239, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 25%;
   margin-left: 0%;
   margin-right: -25%;
 }
-/* line 241, ../sass/_startup.scss */
+/* line 242, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 25%;
   margin-left: 25%;
   margin-right: -50%;
 }
-/* line 244, ../sass/_startup.scss */
+/* line 245, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 25%;
   margin-left: 50%;
   margin-right: -75%;
 }
-/* line 247, ../sass/_startup.scss */
+/* line 248, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 25%;
@@ -2330,40 +2331,40 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 251, ../sass/_startup.scss */
+/* line 252, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 255, ../sass/_startup.scss */
+/* line 256, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-1 {
   float: left;
   width: 20%;
   margin-left: 0%;
   margin-right: -20%;
 }
-/* line 258, ../sass/_startup.scss */
+/* line 259, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-2 {
   float: left;
   width: 20%;
   margin-left: 20%;
   margin-right: -40%;
 }
-/* line 261, ../sass/_startup.scss */
+/* line 262, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-3 {
   float: left;
   width: 20%;
   margin-left: 40%;
   margin-right: -60%;
 }
-/* line 264, ../sass/_startup.scss */
+/* line 265, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-4 {
   float: left;
   width: 20%;
   margin-left: 60%;
   margin-right: -80%;
 }
-/* line 267, ../sass/_startup.scss */
+/* line 268, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-5 {
   float: left;
   width: 20%;
