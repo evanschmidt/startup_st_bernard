@@ -658,7 +658,7 @@ table {
 
 /* line 57, ../sass/layouts/_responsive.scss */
 .how-it-works {
-  width: 80%;
+  width: 80% !important;
 }
 /* line 60, ../sass/layouts/_responsive.scss */
 .how-it-works .block__title span {
