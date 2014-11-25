@@ -56,15 +56,13 @@ $zen-auto-include-item-base: false;
 }
 .how-it-works {
   .block__title {
-      margin: 0;
-      padding: 0;
     span {
       display: block;
-      margin: 0;
-      padding: 0;
     }
   }
   ol {
+    padding: 0;
+    margin: 1em 0 0 0;
   }
   li {
   }
