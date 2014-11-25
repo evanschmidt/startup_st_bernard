@@ -130,6 +130,13 @@ $zen-auto-include-item-base: false;
         display: block;
       }
     }
+    li {
+      font-size: 1.5em;
+      p {
+        font-size: 0.75em;
+        margin-top: 0.25em;
+      }
+    }    
   }
   /**
    * The layout when there is only one sidebar, the left one.
@@ -247,6 +254,13 @@ $zen-auto-include-item-base: false;
           display: inline;
         }
     }
+    li {
+      font-size: 1.5em;
+      p {
+        font-size: 0.75em;
+        margin-top: 0.25em;
+      }
+    }    
   }
   /**
    * The layout when there is only one sidebar, the left one.
