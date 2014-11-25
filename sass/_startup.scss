@@ -224,7 +224,7 @@
 }
 .views-responsive-grid.views-columns-4 {
   $zen-column-count:  4;
-  $zen-gutter-width:  0px;
+  $zen-gutter-width:  20px;
   @include zen-nested-container();
   @include zen-grid-background();  
   .views-column-1 {
