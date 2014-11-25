@@ -56,11 +56,18 @@ $zen-auto-include-item-base: false;
 }
 .how-it-works {
   .block__title {
-    padding: 3em;
+    padding: 1em;
     span {
       display: block;
     }
   }
+  li {
+    font-size: 1em;
+    p {
+      font-size: 0.75em;
+      margin-top: 0.25em;
+    }
+  }    
 }
 
 /* Navigation bar */
