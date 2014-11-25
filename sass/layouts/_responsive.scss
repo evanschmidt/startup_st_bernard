@@ -58,14 +58,16 @@ $zen-auto-include-item-base: false;
   .block__title {
     span {
       display: block;
-      margin: auto;
     }
   }
-  ol {
-  }
-  li {
+}
+.enter-the-challenge {
+  a.enter-link {
+    font-size: 1.5em;
+    padding: 1em;
   }
 }
+
 /* Navigation bar */
 @media all and (min-width: 480px) {
   #main {
@@ -142,6 +144,12 @@ $zen-auto-include-item-base: false;
       }
     }    
   }
+  .enter-the-challenge {
+    a.enter-link {
+      font-size: 2em;
+      padding: 1em;
+    }
+  }  
   /**
    * The layout when there is only one sidebar, the left one.
    */
@@ -265,6 +273,12 @@ $zen-auto-include-item-base: false;
         margin-top: 0.25em;
       }
     }    
+  }
+  .enter-the-challenge {
+    a.enter-link {
+      font-size: 2em;
+      padding: 1em;
+    }
   }
   /**
    * The layout when there is only one sidebar, the left one.
