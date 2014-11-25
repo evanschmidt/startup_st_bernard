@@ -60,6 +60,10 @@ $zen-auto-include-item-base: false;
       display: block;
     }
   }
+  ol {
+    margin: 0;
+    padding: 0;
+  }
 }
 /* Navigation bar */
 @media all and (min-width: 480px) {
