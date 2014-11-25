@@ -92,12 +92,18 @@
       color: $dark-blue;
     }
    }
+   ul {
+    margin-top: 1em;
+   }
    li {
     color: $aqua;
     list-style: square;
-    margin-bottom: 0.25em;
+    margin: 1em 0;
     span {
       color: $dark-blue;
+    }
+    ul {
+      margin-top: 0;
     }
    }
 }
