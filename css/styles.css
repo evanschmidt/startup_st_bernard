@@ -656,6 +656,11 @@ table {
   clear: both;
 }
 
+/* line 59, ../sass/layouts/_responsive.scss */
+.how-it-works .block__title span {
+  display: block;
+}
+
 /* Navigation bar */
 @media all and (min-width: 480px) {
   /* line 66, ../sass/layouts/_responsive.scss */
