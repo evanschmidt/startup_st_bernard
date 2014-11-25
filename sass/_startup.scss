@@ -132,17 +132,22 @@
     text-align: center;
   }
   .view {
-  max-width: 915px;
-  margin-bottom: 4em;
-  text-align: center;
-  a {
-    display: block;
-  }
-  img {
-    margin: 0.25em;
-    width: auto;
-    max-width: none;
-  }
+    max-width: 915px;
+    margin-bottom: 4em;
+    text-align: center;
+    .views-field-field-partner-logo {
+      margin:0;
+      padding: 0;
+      border: 1px solid #000;
+    }
+    a {
+      display: block;
+    }
+    img {
+      margin: 0.25em;
+      width: auto;
+      max-width: none;
+    }
   }
 }
 .enter-the-challenge {
