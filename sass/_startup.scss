@@ -134,6 +134,7 @@
   .view {
   max-width: 915px;
   margin-bottom: 4em;
+  text-align: center;
   }
 }
 .enter-the-challenge {
@@ -224,7 +225,7 @@
 }
 .views-responsive-grid.views-columns-4 {
   $zen-column-count:  4;
-  $zen-gutter-width:  20px;
+  $zen-gutter-width:  10px;
   @include zen-nested-container();
   @include zen-grid-background();  
   .views-column-1 {
