@@ -658,11 +658,7 @@ table {
 
 /* line 58, ../sass/layouts/_responsive.scss */
 .how-it-works .block__title {
-  font-size: 2em;
-}
-/* line 60, ../sass/layouts/_responsive.scss */
-.how-it-works .block__title span {
-  display: block;
+  font-size: 1em;
 }
 
 /* Navigation bar */
