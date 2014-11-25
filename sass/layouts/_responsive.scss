@@ -69,6 +69,13 @@ $zen-auto-include-item-base: false;
     height: $nav-height;
     width: $zen-grid-width;
   }
+  .how-it-works {
+    .block__title {
+      span {
+        display: block;
+      }
+    }
+  }
 }
 
 } // End of @if $zen-reverse-all-floats == true
@@ -237,6 +244,7 @@ $zen-auto-include-item-base: false;
       padding: 3em;
         span {
           padding: 0.5em;
+          display: inline;
         }
     }
   }
