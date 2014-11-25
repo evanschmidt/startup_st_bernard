@@ -659,7 +659,7 @@ table {
 /* line 58, ../sass/layouts/_responsive.scss */
 .how-it-works .block__title {
   font-size: 1.5em;
-  padding: 1em;
+  padding: 1em 0;
 }
 /* line 61, ../sass/layouts/_responsive.scss */
 .how-it-works .block__title span {
