@@ -132,20 +132,18 @@
     text-align: center;
   }
   .view {
-    max-width: 915px;
     margin-bottom: 4em;
     text-align: center;
+    .views-row {
+      margin: 0 0 -1em 0;
+      padding: 0;
+    }
     .views-field-field-partner-logo {
       margin:0;
       padding: 0;
-      border: 1px solid #000;
-    }
-    a {
-      display: block;
     }
     img {
-      margin: 0.25em;
-      width: auto;
+      width: 100%;
       max-width: none;
     }
   }
