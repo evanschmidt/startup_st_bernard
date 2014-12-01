@@ -2160,11 +2160,6 @@ tr.selected td {
   margin: 0;
   padding: 0;
 }
-/* line 148, ../sass/_startup.scss */
-.sponsors .view img {
-  width: 100%;
-  max-width: none;
-}
 
 /* line 154, ../sass/_startup.scss */
 .enter-the-challenge {
