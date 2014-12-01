@@ -2038,43 +2038,39 @@ tr.selected td {
   font-style: italic;
   margin-bottom: -1em;
 }
-/* line 46, ../sass/_startup.scss */
-#block-block-2 .top-contact {
-  font-weight: 900;
-}
-/* line 48, ../sass/_startup.scss */
+/* line 47, ../sass/_startup.scss */
 #block-block-2 .top-contact a {
-  color: white;
+  color: #4bdff7;
   text-decoration: none;
 }
 
-/* line 54, ../sass/_startup.scss */
+/* line 53, ../sass/_startup.scss */
 #block-block-3, .welcome {
   background: url("/sites/default/files/images/StartUpStBernard-logoBG.jpg") repeat scroll top center transparent;
   text-align: center;
   height: 528px;
 }
-/* line 58, ../sass/_startup.scss */
+/* line 57, ../sass/_startup.scss */
 #block-block-3 .block-title, .welcome .block-title {
   display: none;
 }
-/* line 61, ../sass/_startup.scss */
+/* line 60, ../sass/_startup.scss */
 #block-block-3 p, .welcome p {
   margin: 0;
 }
-/* line 64, ../sass/_startup.scss */
+/* line 63, ../sass/_startup.scss */
 #block-block-3 img, .welcome img {
   padding-top: 0em;
 }
 
-/* line 68, ../sass/_startup.scss */
+/* line 67, ../sass/_startup.scss */
 .view {
   padding-left: 10%;
   padding-right: 10%;
   margin: auto;
 }
 
-/* line 73, ../sass/_startup.scss */
+/* line 72, ../sass/_startup.scss */
 .block__title {
   font-size: 2.5em;
   font-weight: 900;
@@ -2085,128 +2081,128 @@ tr.selected td {
   text-transform: uppercase;
 }
 
-/* line 82, ../sass/_startup.scss */
+/* line 81, ../sass/_startup.scss */
 .block {
   margin-bottom: 0;
 }
 
-/* line 86, ../sass/_startup.scss */
+/* line 85, ../sass/_startup.scss */
 .about .block__title {
   color: #4bdff7;
   text-transform: uppercase;
 }
 
-/* line 91, ../sass/_startup.scss */
+/* line 90, ../sass/_startup.scss */
 .prize-package {
   background: none repeat scroll 0 0 #e3f7f9;
 }
-/* line 93, ../sass/_startup.scss */
+/* line 92, ../sass/_startup.scss */
 .prize-package .block__title {
   background: none repeat scroll 0 0 #4bdff7;
   color: white;
   text-align: center;
   padding: 1em;
 }
-/* line 98, ../sass/_startup.scss */
+/* line 97, ../sass/_startup.scss */
 .prize-package .block__title span {
   color: #1e344d;
 }
-/* line 102, ../sass/_startup.scss */
+/* line 101, ../sass/_startup.scss */
 .prize-package ul {
   margin-top: 2em;
 }
-/* line 105, ../sass/_startup.scss */
+/* line 104, ../sass/_startup.scss */
 .prize-package li {
   color: #4bdff7;
   list-style: square;
   margin: 1em 0;
 }
-/* line 109, ../sass/_startup.scss */
+/* line 108, ../sass/_startup.scss */
 .prize-package li span {
   color: #1e344d;
 }
-/* line 112, ../sass/_startup.scss */
+/* line 111, ../sass/_startup.scss */
 .prize-package li ul {
   margin-top: 0;
 }
 
-/* line 118, ../sass/_startup.scss */
+/* line 117, ../sass/_startup.scss */
 .how-it-works .block__title {
   background: url("/sites/default/files/images/StartUpStBernard-worksBG.jpg") repeat scroll 0 0 transparent;
   color: white;
   text-align: center;
 }
-/* line 122, ../sass/_startup.scss */
+/* line 121, ../sass/_startup.scss */
 .how-it-works .block__title span {
   background: none repeat scroll 0 0 #1e344d;
 }
-/* line 126, ../sass/_startup.scss */
+/* line 125, ../sass/_startup.scss */
 .how-it-works li {
   color: #4bdff7;
   font-weight: bold;
 }
-/* line 129, ../sass/_startup.scss */
+/* line 128, ../sass/_startup.scss */
 .how-it-works li p {
   color: #1e344d;
   font-weight: normal;
 }
 
-/* line 135, ../sass/_startup.scss */
+/* line 134, ../sass/_startup.scss */
 .sponsors {
   background: none repeat scroll 0 0 #4bdff7;
 }
-/* line 137, ../sass/_startup.scss */
+/* line 136, ../sass/_startup.scss */
 .sponsors .block__title {
   color: white;
   text-align: center;
 }
-/* line 141, ../sass/_startup.scss */
+/* line 140, ../sass/_startup.scss */
 .sponsors .view {
   margin-bottom: 4em;
   text-align: center;
 }
-/* line 144, ../sass/_startup.scss */
+/* line 143, ../sass/_startup.scss */
 .sponsors .view .view-content {
   background: none repeat scroll 0 0 #81e8f7;
 }
-/* line 147, ../sass/_startup.scss */
+/* line 146, ../sass/_startup.scss */
 .sponsors .view .views-row {
   margin: 0;
   padding: 0;
 }
-/* line 151, ../sass/_startup.scss */
+/* line 150, ../sass/_startup.scss */
 .sponsors .view .views-field-field-partner-logo {
   margin: 0;
   padding: 0;
 }
 
-/* line 161, ../sass/_startup.scss */
+/* line 160, ../sass/_startup.scss */
 .enter-the-challenge {
   background: url("/sites/default/files/images/StartUpStBernard-registerBG.jpg") no-repeat scroll bottom center #1e344d;
   color: #4bdff7;
   padding-bottom: 20em;
   text-align: center;
 }
-/* line 166, ../sass/_startup.scss */
+/* line 165, ../sass/_startup.scss */
 .enter-the-challenge .block__title {
   color: #4bdff7;
   text-align: center;
   padding: 0;
 }
-/* line 170, ../sass/_startup.scss */
+/* line 169, ../sass/_startup.scss */
 .enter-the-challenge .block__title span {
   color: #4bdff7;
 }
-/* line 174, ../sass/_startup.scss */
+/* line 173, ../sass/_startup.scss */
 .enter-the-challenge a {
   color: #4bdff7;
 }
-/* line 177, ../sass/_startup.scss */
+/* line 176, ../sass/_startup.scss */
 .enter-the-challenge span {
   color: white;
   font-weight: 900;
 }
-/* line 181, ../sass/_startup.scss */
+/* line 180, ../sass/_startup.scss */
 .enter-the-challenge a.enter-link {
   background: none repeat scroll 0 0 #f8e650;
   color: #1e344d;
@@ -2216,7 +2212,7 @@ tr.selected td {
   text-decoration: none;
   width: 40%;
 }
-/* line 190, ../sass/_startup.scss */
+/* line 189, ../sass/_startup.scss */
 .enter-the-challenge a.attend-link {
   background: none repeat scroll 0 0 #f8e650;
   color: #1e344d;
@@ -2226,20 +2222,20 @@ tr.selected td {
   text-decoration: none;
 }
 
-/* line 200, ../sass/_startup.scss */
+/* line 199, ../sass/_startup.scss */
 .section-enter #main {
   background: none repeat scroll 0 0 #e3f7f9;
 }
-/* line 203, ../sass/_startup.scss */
+/* line 202, ../sass/_startup.scss */
 .section-enter .form-item-submitted-address-country {
   display: none;
 }
-/* line 206, ../sass/_startup.scss */
+/* line 205, ../sass/_startup.scss */
 .section-enter input:focus {
   background: none repeat scroll 0 0 #f8e650;
 }
 
-/* line 210, ../sass/_startup.scss */
+/* line 209, ../sass/_startup.scss */
 #footer {
   background: none repeat scroll 0 0 #1e344d;
   color: white;
@@ -2247,7 +2243,7 @@ tr.selected td {
   text-align: center;
 }
 
-/* line 217, ../sass/_startup.scss */
+/* line 216, ../sass/_startup.scss */
 .views-responsive-grid {
   padding-left: 0px;
   padding-right: 0px;
@@ -2267,24 +2263,24 @@ tr.selected td {
   clear: both;
 }
 
-/* line 221, ../sass/_startup.scss */
+/* line 220, ../sass/_startup.scss */
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-/* line 224, ../sass/_startup.scss */
+/* line 223, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 227, ../sass/_startup.scss */
+/* line 226, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 50%;
   margin-left: 0%;
   margin-right: -50%;
 }
-/* line 230, ../sass/_startup.scss */
+/* line 229, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 50%;
@@ -2292,26 +2288,26 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 234, ../sass/_startup.scss */
+/* line 233, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 237, ../sass/_startup.scss */
+/* line 236, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 33.33333%;
   margin-left: 0%;
   margin-right: -33.33333%;
 }
-/* line 240, ../sass/_startup.scss */
+/* line 239, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 33.33333%;
   margin-left: 33.33333%;
   margin-right: -66.66667%;
 }
-/* line 243, ../sass/_startup.scss */
+/* line 242, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 33.33333%;
@@ -2319,33 +2315,33 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 247, ../sass/_startup.scss */
+/* line 246, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 252, ../sass/_startup.scss */
+/* line 251, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 25%;
   margin-left: 0%;
   margin-right: -25%;
 }
-/* line 255, ../sass/_startup.scss */
+/* line 254, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 25%;
   margin-left: 25%;
   margin-right: -50%;
 }
-/* line 258, ../sass/_startup.scss */
+/* line 257, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 25%;
   margin-left: 50%;
   margin-right: -75%;
 }
-/* line 261, ../sass/_startup.scss */
+/* line 260, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 25%;
@@ -2353,40 +2349,40 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 265, ../sass/_startup.scss */
+/* line 264, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 269, ../sass/_startup.scss */
+/* line 268, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-1 {
   float: left;
   width: 20%;
   margin-left: 0%;
   margin-right: -20%;
 }
-/* line 272, ../sass/_startup.scss */
+/* line 271, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-2 {
   float: left;
   width: 20%;
   margin-left: 20%;
   margin-right: -40%;
 }
-/* line 275, ../sass/_startup.scss */
+/* line 274, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-3 {
   float: left;
   width: 20%;
   margin-left: 40%;
   margin-right: -60%;
 }
-/* line 278, ../sass/_startup.scss */
+/* line 277, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-4 {
   float: left;
   width: 20%;
   margin-left: 60%;
   margin-right: -80%;
 }
-/* line 281, ../sass/_startup.scss */
+/* line 280, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-5 {
   float: left;
   width: 20%;
