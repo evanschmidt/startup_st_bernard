@@ -2008,12 +2008,12 @@ tr.selected td {
 /* line 22, ../sass/_startup.scss */
 #block-block-2 .top-title {
   color: #4bdff7;
+  margin-right: 1em;
 }
-/* line 24, ../sass/_startup.scss */
+/* line 25, ../sass/_startup.scss */
 #block-block-2 .top-title a {
   color: #4bdff7;
   display: block;
-  padding-right: 1em;
   text-decoration: none;
 }
 /* line 31, ../sass/_startup.scss */
