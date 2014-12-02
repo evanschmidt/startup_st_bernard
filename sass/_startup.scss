@@ -22,15 +22,17 @@
   .top-title {
     color: $aqua;
     display: block;
-    margin-right: 1em;
+    font-weight: 900;
     a {
       color: $aqua;
       display: block;
+      padding-right: 1em;
       text-decoration: none;
     }
   }
   .top-enter {
     color: white;
+    font-weight: 900;
     a {
       color: white;
       text-decoration: none;
