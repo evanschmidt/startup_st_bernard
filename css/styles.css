@@ -912,7 +912,6 @@ table {
   /* line 256, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-title {
     float: left;
-    width: 50%;
   }
   /* line 259, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-title a {
@@ -921,18 +920,15 @@ table {
   /* line 263, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-enter {
     float: left;
-    width: 25%;
   }
   /* line 267, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-social {
-    float: left;
+    float: right;
     margin-top: -0.5em;
-    width: 12.5%;
   }
   /* line 272, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-contact {
-    float: left;
-    width: 12.5%;
+    float: right;
   }
 
   /* line 278, ../sass/layouts/_responsive.scss */

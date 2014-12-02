@@ -255,23 +255,23 @@ $zen-auto-include-item-base: false;
     padding: 1em;
     .top-title {
       float: left;
-      width: 50%;
+      //width: 50%;
       a {
         padding-left: 10%;
       }
     }
     .top-enter {
       float: left;
-      width: 25%;
+      //width: 25%;
     }
     .top-social {
-      float: left;
+      float: right;
       margin-top: -0.5em;
-      width: 12.5%;
+      //width: 12.5%;
     }
     .top-contact {
-      float: left;
-      width: 12.5%;      
+      float: right;
+      //width: 12.5%;      
     }
   }
   .prize-package {
