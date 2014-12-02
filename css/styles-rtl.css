@@ -51,25 +51,21 @@ ul {
   /* line 111, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-title {
     clear: both;
-    width: 100%;
   }
   /* line 115, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-enter {
     float: left;
     margin-top: 0.5em;
-    width: 50%;
   }
   /* line 120, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-social {
-    float: left;
+    float: right;
     margin-top: -1.5em;
     text-align: right;
-    width: 50%;
   }
   /* line 126, ../sass/layouts/_responsive.scss */
   #block-block-2 .top-contact {
-    float: none;
-    width: 100%;
+    float: right;
   }
 
   /* line 132, ../sass/layouts/_responsive.scss */

@@ -110,22 +110,22 @@ $zen-auto-include-item-base: false;
     padding: 1em;
     .top-title {
       clear: both;
-      width: 100%;
+      //width: 100%;
     }
     .top-enter {
       float: left;
       margin-top: 0.5em;
-      width: 50%;
+      //width: 50%;
     }
     .top-social {
-      float: left;
+      float: right;
       margin-top: -1.5em;
       text-align: right;
-      width: 50%;
+      //width: 50%;
     }
     .top-contact {
-      float: none;
-      width: 100%;      
+      float: right;
+      //width: 100%;      
     }
   }
   .prize-package {
