@@ -131,16 +131,16 @@ $zen-auto-include-item-base: false;
       text-align: right;
       //width: 50%;
       img {
-        height: auto;
-        width: 25px;
+        height: auto!important;
+        width: 25px!important;
       }
     }
     .top-contact {
-      font-size: 0.65em;
+      font-size: 0.45em;
       float: right;
       //width: 100%;
       a {
-        line-height: 2.75em;
+        line-height: 1.75em;
       }    
     }
   }
