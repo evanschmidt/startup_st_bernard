@@ -130,6 +130,10 @@ $zen-auto-include-item-base: false;
       //margin-top: -1.5em;
       text-align: right;
       //width: 50%;
+      img {
+        height: auto;
+        width: 25px;
+      }
     }
     .top-contact {
       font-size: 0.65em;
