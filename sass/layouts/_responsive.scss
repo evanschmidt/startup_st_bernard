@@ -134,7 +134,10 @@ $zen-auto-include-item-base: false;
     .top-contact {
       font-size: 0.65em;
       float: right;
-      //width: 100%;      
+      //width: 100%;
+      a {
+        line-height: 2.75em;
+      }    
     }
   }
   .prize-package {
@@ -284,6 +287,9 @@ $zen-auto-include-item-base: false;
     .top-contact {
       float: right;
       //width: 12.5%;      
+      a {
+        line-height: 1.75em;
+      }    
     }
   }
   .prize-package {
