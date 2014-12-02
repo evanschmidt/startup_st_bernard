@@ -74,11 +74,15 @@ $zen-auto-include-item-base: false;
     padding: 1em;
   }
 }
-  .sponsors {
-     .block__title {
-        font-size: 2em;
-      }
-  }  
+.sponsors {
+   .block__title {
+      font-size: 2em;
+    }
+}  
+
+#block-block-2 {
+  text-align: center;
+}
 
 /* Navigation bar */
 @media all and (min-width: 480px) {
@@ -108,6 +112,7 @@ $zen-auto-include-item-base: false;
     font-size: 1.5em;
     height: 2em;
     padding: 1em;
+    text-align: left;
     .top-title {
       clear: both;
       //width: 100%;
@@ -253,6 +258,7 @@ $zen-auto-include-item-base: false;
     font-size: 1em;
     height: 1.5em;
     padding: 1em;
+    text-align: left;
     .top-title {
       float: left;
       //width: 50%;
