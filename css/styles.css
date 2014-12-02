@@ -905,7 +905,7 @@ table {
 @media all and (min-width: 960px) {
   /* line 252, ../sass/layouts/_responsive.scss */
   #block-block-2 {
-    font-size: 1.25em;
+    font-size: 1em;
     height: 1em;
     padding: 1em;
   }
