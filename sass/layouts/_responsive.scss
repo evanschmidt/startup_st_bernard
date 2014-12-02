@@ -116,9 +116,11 @@ $zen-auto-include-item-base: false;
     text-align: left;
     .top-title {
       clear: both;
+      text-align: center;
       //width: 100%;
     }
     .top-enter {
+      font-size: 0.65em;
       float: left;
       margin-top: 0.5em;
       //width: 50%;
@@ -130,6 +132,7 @@ $zen-auto-include-item-base: false;
       //width: 50%;
     }
     .top-contact {
+      font-size: 0.65em;
       float: right;
       //width: 100%;      
     }
