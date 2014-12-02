@@ -2015,7 +2015,7 @@ tr.selected td {
 #block-block-2 .top-title a {
   color: #4bdff7;
   display: block;
-  padding-right: 1em;
+  padding-right: 0.5em;
   text-decoration: none;
 }
 /* line 33, ../sass/_startup.scss */
