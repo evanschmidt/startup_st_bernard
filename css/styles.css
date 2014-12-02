@@ -2031,7 +2031,7 @@ tr.selected td {
   font-size: 0.65em;
   font-style: italic;
   line-height: 1em;
-  margin-bottom: -1em;
+  margin-bottom: 0.25em;
 }
 /* line 51, ../sass/_startup.scss */
 #block-block-2 .top-contact a {
