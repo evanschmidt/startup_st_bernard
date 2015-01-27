@@ -284,23 +284,3 @@
     @include zen-grid-item(1, 5);
   }
 }
-#block-system-user-menu {
-  background: none repeat scroll 0 0 $yellow;
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 1em;
-  }
-  li {
-    display: inline;
-  }
-  a {
-    color: $dark-blue;
-    font-weight: bold;
-    margin: auto;
-    padding: 1em;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-  }
-}

@@ -2417,28 +2417,3 @@ tr.selected td {
   margin-left: 400%;
   margin-right: -500%;
 }
-
-/* line 287, ../sass/_startup.scss */
-#block-system-user-menu {
-  background: none repeat scroll 0 0 #F8E650;
-}
-/* line 289, ../sass/_startup.scss */
-#block-system-user-menu ul {
-  list-style: none;
-  margin: 0;
-  padding: 1em;
-}
-/* line 294, ../sass/_startup.scss */
-#block-system-user-menu li {
-  display: inline;
-}
-/* line 297, ../sass/_startup.scss */
-#block-system-user-menu a {
-  color: #1E344D;
-  font-weight: bold;
-  margin: auto;
-  padding: 1em;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-}
