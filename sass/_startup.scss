@@ -73,17 +73,19 @@
   ul {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 1em;
   }
   li {
     display: inline;
   }
   a {
     color: $dark-blue;
-    display: block;
+    font-weight: bold;
     margin: auto;
+    padding: 1em;
     text-align: center;
     text-decoration: none;
+    text-transform: uppercase;
   }
 }
   .view {

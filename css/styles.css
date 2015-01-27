@@ -2100,7 +2100,7 @@ tr.selected td {
 #block-system-user-menu ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 1em;
 }
 /* line 78, ../sass/_startup.scss */
 #block-system-user-menu li {
@@ -2109,20 +2109,22 @@ tr.selected td {
 /* line 81, ../sass/_startup.scss */
 #block-system-user-menu a {
   color: #1E344D;
-  display: block;
+  font-weight: bold;
   margin: auto;
+  padding: 1em;
   text-align: center;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
-/* line 89, ../sass/_startup.scss */
+/* line 91, ../sass/_startup.scss */
 .view {
   padding-left: 10%;
   padding-right: 10%;
   margin: auto;
 }
 
-/* line 94, ../sass/_startup.scss */
+/* line 96, ../sass/_startup.scss */
 .block__title {
   font-size: 2.5em;
   font-weight: 900;
@@ -2133,128 +2135,128 @@ tr.selected td {
   text-transform: uppercase;
 }
 
-/* line 103, ../sass/_startup.scss */
+/* line 105, ../sass/_startup.scss */
 .block {
   margin-bottom: 0;
 }
 
-/* line 107, ../sass/_startup.scss */
+/* line 109, ../sass/_startup.scss */
 .about .block__title {
   color: #4BDFF7;
   text-transform: uppercase;
 }
 
-/* line 112, ../sass/_startup.scss */
+/* line 114, ../sass/_startup.scss */
 .prize-package {
   background: none repeat scroll 0 0 #E3F7F9;
 }
-/* line 114, ../sass/_startup.scss */
+/* line 116, ../sass/_startup.scss */
 .prize-package .block__title {
   background: none repeat scroll 0 0 #4BDFF7;
   color: white;
   text-align: center;
   padding: 1em;
 }
-/* line 119, ../sass/_startup.scss */
+/* line 121, ../sass/_startup.scss */
 .prize-package .block__title span {
   color: #1E344D;
 }
-/* line 123, ../sass/_startup.scss */
+/* line 125, ../sass/_startup.scss */
 .prize-package ul {
   margin-top: 2em;
 }
-/* line 126, ../sass/_startup.scss */
+/* line 128, ../sass/_startup.scss */
 .prize-package li {
   color: #4BDFF7;
   list-style: square;
   margin: 1em 0;
 }
-/* line 130, ../sass/_startup.scss */
+/* line 132, ../sass/_startup.scss */
 .prize-package li span {
   color: #1E344D;
 }
-/* line 133, ../sass/_startup.scss */
+/* line 135, ../sass/_startup.scss */
 .prize-package li ul {
   margin-top: 0;
 }
 
-/* line 139, ../sass/_startup.scss */
+/* line 141, ../sass/_startup.scss */
 .how-it-works .block__title {
   background: url("/sites/default/files/images/StartUpStBernard-worksBG.jpg") repeat scroll 0 0 transparent;
   color: white;
   text-align: center;
 }
-/* line 143, ../sass/_startup.scss */
+/* line 145, ../sass/_startup.scss */
 .how-it-works .block__title span {
   background: none repeat scroll 0 0 #1E344D;
 }
-/* line 147, ../sass/_startup.scss */
+/* line 149, ../sass/_startup.scss */
 .how-it-works li {
   color: #4BDFF7;
   font-weight: bold;
 }
-/* line 150, ../sass/_startup.scss */
+/* line 152, ../sass/_startup.scss */
 .how-it-works li p {
   color: #1E344D;
   font-weight: normal;
 }
 
-/* line 156, ../sass/_startup.scss */
+/* line 158, ../sass/_startup.scss */
 .sponsors {
   background: none repeat scroll 0 0 #4BDFF7;
 }
-/* line 158, ../sass/_startup.scss */
+/* line 160, ../sass/_startup.scss */
 .sponsors .block__title {
   color: white;
   text-align: center;
 }
-/* line 162, ../sass/_startup.scss */
+/* line 164, ../sass/_startup.scss */
 .sponsors .view {
   margin-bottom: 4em;
   text-align: center;
 }
-/* line 165, ../sass/_startup.scss */
+/* line 167, ../sass/_startup.scss */
 .sponsors .view .view-content {
   background: none repeat scroll 0 0 #81E8F7;
 }
-/* line 168, ../sass/_startup.scss */
+/* line 170, ../sass/_startup.scss */
 .sponsors .view .views-row {
   margin: 0;
   padding: 0;
 }
-/* line 172, ../sass/_startup.scss */
+/* line 174, ../sass/_startup.scss */
 .sponsors .view .views-field-field-partner-logo {
   margin: 0;
   padding: 0;
 }
 
-/* line 182, ../sass/_startup.scss */
+/* line 184, ../sass/_startup.scss */
 .enter-the-challenge {
   background: url("/sites/default/files/images/StartUpStBernard-registerBG.jpg") no-repeat scroll bottom center #1E344D;
   color: #4BDFF7;
   padding-bottom: 20em;
   text-align: center;
 }
-/* line 187, ../sass/_startup.scss */
+/* line 189, ../sass/_startup.scss */
 .enter-the-challenge .block__title {
   color: #4BDFF7;
   text-align: center;
   padding: 0;
 }
-/* line 191, ../sass/_startup.scss */
+/* line 193, ../sass/_startup.scss */
 .enter-the-challenge .block__title span {
   color: #4BDFF7;
 }
-/* line 195, ../sass/_startup.scss */
+/* line 197, ../sass/_startup.scss */
 .enter-the-challenge a {
   color: #4BDFF7;
 }
-/* line 198, ../sass/_startup.scss */
+/* line 200, ../sass/_startup.scss */
 .enter-the-challenge span {
   color: white;
   font-weight: 900;
 }
-/* line 202, ../sass/_startup.scss */
+/* line 204, ../sass/_startup.scss */
 .enter-the-challenge a.enter-link {
   background: none repeat scroll 0 0 #F8E650;
   color: #1E344D;
@@ -2263,7 +2265,7 @@ tr.selected td {
   text-align: center;
   text-decoration: none;
 }
-/* line 210, ../sass/_startup.scss */
+/* line 212, ../sass/_startup.scss */
 .enter-the-challenge a.attend-link {
   background: none repeat scroll 0 0 #F8E650;
   color: #1E344D;
@@ -2273,20 +2275,20 @@ tr.selected td {
   text-decoration: none;
 }
 
-/* line 220, ../sass/_startup.scss */
+/* line 222, ../sass/_startup.scss */
 .section-enter #main {
   background: none repeat scroll 0 0 #E3F7F9;
 }
-/* line 223, ../sass/_startup.scss */
+/* line 225, ../sass/_startup.scss */
 .section-enter .form-item-submitted-address-country {
   display: none;
 }
-/* line 226, ../sass/_startup.scss */
+/* line 228, ../sass/_startup.scss */
 .section-enter input:focus {
   background: none repeat scroll 0 0 #F8E650;
 }
 
-/* line 230, ../sass/_startup.scss */
+/* line 232, ../sass/_startup.scss */
 #footer {
   background: none repeat scroll 0 0 #1E344D;
   color: white;
@@ -2294,7 +2296,7 @@ tr.selected td {
   text-align: center;
 }
 
-/* line 237, ../sass/_startup.scss */
+/* line 239, ../sass/_startup.scss */
 .views-responsive-grid {
   padding-left: 0px;
   padding-right: 0px;
@@ -2314,24 +2316,24 @@ tr.selected td {
   clear: both;
 }
 
-/* line 241, ../sass/_startup.scss */
+/* line 243, ../sass/_startup.scss */
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-/* line 244, ../sass/_startup.scss */
+/* line 246, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 247, ../sass/_startup.scss */
+/* line 249, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
 }
-/* line 250, ../sass/_startup.scss */
+/* line 252, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 100%;
@@ -2339,26 +2341,26 @@ tr.selected td {
   margin-right: -200%;
 }
 
-/* line 254, ../sass/_startup.scss */
+/* line 256, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 257, ../sass/_startup.scss */
+/* line 259, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
 }
-/* line 260, ../sass/_startup.scss */
+/* line 262, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 100%;
   margin-left: 100%;
   margin-right: -200%;
 }
-/* line 263, ../sass/_startup.scss */
+/* line 265, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 100%;
@@ -2366,33 +2368,33 @@ tr.selected td {
   margin-right: -300%;
 }
 
-/* line 267, ../sass/_startup.scss */
+/* line 269, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 272, ../sass/_startup.scss */
+/* line 274, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
 }
-/* line 275, ../sass/_startup.scss */
+/* line 277, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 100%;
   margin-left: 100%;
   margin-right: -200%;
 }
-/* line 278, ../sass/_startup.scss */
+/* line 280, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 100%;
   margin-left: 200%;
   margin-right: -300%;
 }
-/* line 281, ../sass/_startup.scss */
+/* line 283, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 100%;
@@ -2400,40 +2402,40 @@ tr.selected td {
   margin-right: -400%;
 }
 
-/* line 285, ../sass/_startup.scss */
+/* line 287, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 289, ../sass/_startup.scss */
+/* line 291, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-1 {
   float: left;
   width: 100%;
   margin-left: 0%;
   margin-right: -100%;
 }
-/* line 292, ../sass/_startup.scss */
+/* line 294, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-2 {
   float: left;
   width: 100%;
   margin-left: 100%;
   margin-right: -200%;
 }
-/* line 295, ../sass/_startup.scss */
+/* line 297, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-3 {
   float: left;
   width: 100%;
   margin-left: 200%;
   margin-right: -300%;
 }
-/* line 298, ../sass/_startup.scss */
+/* line 300, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-4 {
   float: left;
   width: 100%;
   margin-left: 300%;
   margin-right: -400%;
 }
-/* line 301, ../sass/_startup.scss */
+/* line 303, ../sass/_startup.scss */
 .views-responsive-grid.views-columns-5 .views-column-5 {
   float: left;
   width: 100%;
