@@ -5,6 +5,9 @@
  * Adds styles for Startup St. Bernard
  *
  */
+#block-system-user-menu {
+
+}
 .front {
   #page-title {
     display: none;
@@ -283,7 +286,4 @@
   .views-column-5 {
     @include zen-grid-item(1, 5);
   }
-}
-#block-system-user-menu {
-
 }
