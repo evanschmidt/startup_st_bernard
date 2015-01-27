@@ -2074,39 +2074,20 @@ tr.selected td {
 }
 
 /* line 57, ../sass/_startup.scss */
-#block-block-3, .welcome {
-  background: url("/sites/default/files/images/StartUpStBernard-logoBG.jpg") repeat scroll top center transparent;
-  text-align: center;
-  height: 528px;
-}
-/* line 61, ../sass/_startup.scss */
-#block-block-3 .block-title, .welcome .block-title {
-  display: none;
-}
-/* line 64, ../sass/_startup.scss */
-#block-block-3 p, .welcome p {
-  margin: 0;
-}
-/* line 67, ../sass/_startup.scss */
-#block-block-3 img, .welcome img {
-  padding-top: 0em;
-}
-
-/* line 71, ../sass/_startup.scss */
 #block-system-user-menu {
   background: none repeat scroll 0 0 #F8E650;
 }
-/* line 73, ../sass/_startup.scss */
+/* line 59, ../sass/_startup.scss */
 #block-system-user-menu ul {
   list-style: none;
   margin: 0;
   padding: 1em;
 }
-/* line 78, ../sass/_startup.scss */
+/* line 64, ../sass/_startup.scss */
 #block-system-user-menu li {
   display: inline;
 }
-/* line 81, ../sass/_startup.scss */
+/* line 67, ../sass/_startup.scss */
 #block-system-user-menu a {
   color: #1E344D;
   font-weight: bold;
@@ -2115,6 +2096,25 @@ tr.selected td {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+/* line 77, ../sass/_startup.scss */
+#block-block-3, .welcome {
+  background: url("/sites/default/files/images/StartUpStBernard-logoBG.jpg") repeat scroll top center transparent;
+  text-align: center;
+  height: 528px;
+}
+/* line 81, ../sass/_startup.scss */
+#block-block-3 .block-title, .welcome .block-title {
+  display: none;
+}
+/* line 84, ../sass/_startup.scss */
+#block-block-3 p, .welcome p {
+  margin: 0;
+}
+/* line 87, ../sass/_startup.scss */
+#block-block-3 img, .welcome img {
+  padding-top: 0em;
 }
 
 /* line 91, ../sass/_startup.scss */

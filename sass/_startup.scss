@@ -54,20 +54,6 @@
     }    
   }
 }
-#block-block-3, .welcome {
-  background: url('/sites/default/files/images/StartUpStBernard-logoBG.jpg') repeat scroll top center transparent;
-  text-align: center;
-  height: 528px;
-  .block-title {
-    display: none;
-  }
-  p {
-    margin: 0;
-  }
-  img {
-    padding-top: 0em;
-  }
-}
 #block-system-user-menu {
   background: none repeat scroll 0 0 $yellow;
   ul {
@@ -86,6 +72,20 @@
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
+  }
+}
+#block-block-3, .welcome {
+  background: url('/sites/default/files/images/StartUpStBernard-logoBG.jpg') repeat scroll top center transparent;
+  text-align: center;
+  height: 528px;
+  .block-title {
+    display: none;
+  }
+  p {
+    margin: 0;
+  }
+  img {
+    padding-top: 0em;
   }
 }
   .view {
