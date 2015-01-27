@@ -2107,7 +2107,7 @@ tr.selected td {
   display: inline;
 }
 /* line 81, ../sass/_startup.scss */
-#block-system-user-menu a.enter-link {
+#block-system-user-menu a {
   color: #1E344D;
   display: block;
   margin: auto;
