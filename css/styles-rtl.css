@@ -1,1 +1,563 @@
-dd{margin:0 30px 0 0}menu,ol,ul{padding:0 30px 0 0}@media all and (min-width: 480px) and (max-width: 959px){#block-block-2{font-size:1.5em;height:2em;padding:1em;text-align:left}#block-block-2 .top-title{clear:both;text-align:left}#block-block-2 .top-enter{font-size:0.65em;float:left;margin-top:0.5em}#block-block-2 .top-social{float:right;text-align:right}#block-block-2 .top-social img{height:auto !important;width:25px !important}#block-block-2 .top-contact{font-size:0.45em;float:right}#block-block-2 .top-contact a{line-height:1.75em}.prize-package .block__title{font-size:2.5em}.prize-package .block__title span{display:block}.prize-package .left-side{width:100%;float:none}.prize-package .right-side{width:100%;float:none}.how-it-works .block__title{padding:3em}.how-it-works .block__title span{padding:0.5em;display:block}.how-it-works li{font-size:1.5em}.how-it-works li p{font-size:0.75em;margin-top:0.25em}.sponsors .block__title{font-size:2.5em}.enter-the-challenge a.enter-link{font-size:2em;padding:1em;line-height:1.77778em;width:75%}.sidebar-first #content{float:right;width:66.66667%;margin-right:33.33333%;margin-left:-100%}.sidebar-first .region-sidebar-first{float:right;width:33.33333%;margin-right:0%;margin-left:-33.33333%}.sidebar-second #content{float:right;width:66.66667%;margin-right:0%;margin-left:-66.66667%}.sidebar-second .region-sidebar-second{float:right;width:33.33333%;margin-right:66.66667%;margin-left:-100%}.two-sidebars #content{float:right;width:66.66667%;margin-right:33.33333%;margin-left:-100%}.two-sidebars .region-sidebar-first{float:right;width:33.33333%;margin-right:0%;margin-left:-33.33333%}.two-sidebars .region-sidebar-second{float:right;width:100%;margin-right:0%;margin-left:-100%;padding-left:0;padding-right:0;clear:right}.two-sidebars .region-sidebar-second .block{padding-left:0px;padding-right:0px;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;word-wrap:break-word}.two-sidebars .region-sidebar-second .block:nth-child(3n+1){float:right;width:33.33333%;margin-right:0%;margin-left:-33.33333%;clear:right}.two-sidebars .region-sidebar-second .block:nth-child(3n+2){float:right;width:33.33333%;margin-right:33.33333%;margin-left:-66.66667%}.two-sidebars .region-sidebar-second .block:nth-child(3n){float:right;width:33.33333%;margin-right:66.66667%;margin-left:-100%}}@media all and (min-width: 960px){#block-block-2{font-size:1em;height:1.5em;padding:1em;text-align:left}#block-block-2 .top-title{float:left}#block-block-2 .top-title a{padding-left:10%}#block-block-2 .top-enter{float:left}#block-block-2 .top-social{float:right;margin-top:-0.5em}#block-block-2 .top-contact{float:right}#block-block-2 .top-contact a{line-height:1.75em}.prize-package .left-side{width:50%;float:left}.prize-package .right-side{width:50%;float:right}.how-it-works .block__title{font-size:2.5em;padding:3em}.how-it-works .block__title span{padding:0.5em;display:inline}.how-it-works li{font-size:1.5em}.how-it-works li p{font-size:0.75em;margin-top:0.25em}.sponsors .block__title{font-size:2.5em}.enter-the-challenge a.enter-link{font-size:2em;padding:1em;line-height:1.77778em;width:40%}.sidebar-first #content{float:right;width:80%;margin-right:20%;margin-left:-100%}.sidebar-first .region-sidebar-first{float:right;width:20%;margin-right:0%;margin-left:-20%}.sidebar-second #content{float:right;width:80%;margin-right:0%;margin-left:-80%}.sidebar-second .region-sidebar-second{float:right;width:20%;margin-right:80%;margin-left:-100%}.two-sidebars #content{float:right;width:60%;margin-right:20%;margin-left:-80%}.two-sidebars .region-sidebar-first{float:right;width:20%;margin-right:0%;margin-left:-20%}.two-sidebars .region-sidebar-second{float:right;width:20%;margin-right:80%;margin-left:-100%}}.header__logo{float:right}.header__secondary-menu{float:left}#navigation .links,#navigation .menu{text-align:right}#navigation .links li,#navigation .menu li{float:right;padding:0 0 0 10px}.messages,.messages--status,.messages--warning,.messages--error{padding:10px 50px 10px 10px;background-position:99% 8px}.tabs-primary__tab,.tabs-primary__tab.is-active,.tabs-secondary__tab,.tabs-secondary__tab.is-active{float:right}.inline li{display:inline-block;padding:0 0 0 1em}span.field-label{padding:0 0 0 1em}.more-link{text-align:left}.more-help-link{text-align:left}.more-help-link a{background-position:100% 50%;padding:1px 20px 1px 0}.menu__item.is-collapsed{list-style-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABNJREFUCB1j4GASYFJgcmD+A4IADUIDfIUMT4wAAAAASUVORK5CYII=')}.indented{margin-left:0;margin-right:30px}#user-login-form{text-align:right}html.js #user-login-form li.openid-link,#user-login-form li.openid-link{margin-left:0;margin-right:-20px}form th{text-align:right;padding-left:1em;padding-right:0}html.js .collapsible .fieldset-legend{background-position:98% 75%;padding-left:0;padding-right:15px}html.js .collapsed .fieldset-legend{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABNJREFUCB1j4GASYFJgcmD+A4IADUIDfIUMT4wAAAAASUVORK5CYII=');background-position:98% 50%}
+/**
+ * @file
+ * RTL companion for the styles.scss file.
+ */
+/* Import Sass mixins, variables, Compass modules, etc. */
+/* HTML element (SMACSS base) rules */
+/**
+ * @file
+ * Normalize-rtl.scss is the RTL language extension of normalize.scss
+ */
+/**
+ * Lists
+ */
+/* line 9, ../sass/_normalize-rtl.scss */
+dd {
+  margin: 0 30px 0 0;
+}
+
+/* Address paddings set differently in IE 6/7. */
+/* line 14, ../sass/_normalize-rtl.scss */
+menu,
+ol,
+ul {
+  padding: 0 30px 0 0;
+}
+
+/* Layout rules */
+/**
+ * @file
+ * RTL companion for the layout-responsive.css file.
+ */
+/**
+ * @file
+ * Positioning for a responsive layout.
+ *
+ * Define CSS classes to create a fluid grid layout with optional sidebars
+ * depending on whether blocks are placed in the left or right sidebars.
+ *
+ * This layout uses the Zen Grids plugin for Compass: http://zengrids.com
+ */
+/**
+ * Use 3 grid columns for smaller screens.
+ */
+@media all and (min-width: 480px) and (max-width: 959px) {
+  /* line 112, ../sass/layouts/_responsive.scss */
+  #block-block-2 {
+    font-size: 1.5em;
+    height: 2em;
+    padding: 1em;
+    text-align: left;
+  }
+  /* line 117, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-title {
+    clear: both;
+    text-align: left;
+  }
+  /* line 122, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-enter {
+    font-size: 0.65em;
+    float: left;
+    margin-top: 0.5em;
+  }
+  /* line 128, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-social {
+    float: right;
+    text-align: right;
+  }
+  /* line 133, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-social img {
+    height: auto !important;
+    width: 25px !important;
+  }
+  /* line 138, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-contact {
+    font-size: 0.45em;
+    float: right;
+  }
+  /* line 142, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-contact a {
+    line-height: 1.75em;
+  }
+
+  /* line 148, ../sass/layouts/_responsive.scss */
+  .prize-package .block__title {
+    font-size: 2.5em;
+  }
+  /* line 150, ../sass/layouts/_responsive.scss */
+  .prize-package .block__title span {
+    display: block;
+  }
+  /* line 155, ../sass/layouts/_responsive.scss */
+  .prize-package .left-side {
+    width: 100%;
+    float: none;
+  }
+  /* line 159, ../sass/layouts/_responsive.scss */
+  .prize-package .right-side {
+    width: 100%;
+    float: none;
+  }
+
+  /* line 165, ../sass/layouts/_responsive.scss */
+  .how-it-works .block__title {
+    padding: 3em;
+  }
+  /* line 167, ../sass/layouts/_responsive.scss */
+  .how-it-works .block__title span {
+    padding: 0.5em;
+    display: block;
+  }
+  /* line 172, ../sass/layouts/_responsive.scss */
+  .how-it-works li {
+    font-size: 1.5em;
+  }
+  /* line 174, ../sass/layouts/_responsive.scss */
+  .how-it-works li p {
+    font-size: 0.75em;
+    margin-top: 0.25em;
+  }
+
+  /* line 181, ../sass/layouts/_responsive.scss */
+  .sponsors .block__title {
+    font-size: 2.5em;
+  }
+
+  /* line 186, ../sass/layouts/_responsive.scss */
+  .enter-the-challenge a.enter-link {
+    font-size: 2em;
+    padding: 1em;
+    line-height: 1.77778em;
+    width: 75%;
+  }
+
+  /**
+   * The layout when there is only one sidebar, the left one.
+   */
+  /* line 196, ../sass/layouts/_responsive.scss */
+  .sidebar-first {
+    /* Span 2 columns, starting in 2nd column from left. */
+    /* Span 1 column, starting in 1st column from left. */
+  }
+  /* line 198, ../sass/layouts/_responsive.scss */
+  .sidebar-first #content {
+    float: right;
+    width: 200%;
+    margin-right: 100%;
+    margin-left: -300%;
+  }
+  /* line 203, ../sass/layouts/_responsive.scss */
+  .sidebar-first .region-sidebar-first {
+    float: right;
+    width: 100%;
+    margin-right: 0%;
+    margin-left: -100%;
+  }
+
+  /**
+   * The layout when there is only one sidebar, the right one.
+   */
+  /* line 211, ../sass/layouts/_responsive.scss */
+  .sidebar-second {
+    /* Span 2 columns, starting in 1st column from left. */
+    /* Span 1 column, starting in 3rd column from left. */
+  }
+  /* line 213, ../sass/layouts/_responsive.scss */
+  .sidebar-second #content {
+    float: right;
+    width: 200%;
+    margin-right: 0%;
+    margin-left: -200%;
+  }
+  /* line 218, ../sass/layouts/_responsive.scss */
+  .sidebar-second .region-sidebar-second {
+    float: right;
+    width: 100%;
+    margin-right: 200%;
+    margin-left: -300%;
+  }
+
+  /**
+   * The layout when there are two sidebars.
+   */
+  /* line 226, ../sass/layouts/_responsive.scss */
+  .two-sidebars {
+    /* Span 2 columns, starting in 2nd column from left. */
+    /* Span 1 column, starting in 1st column from left. */
+    /* Start a new row and span all 3 columns. */
+  }
+  /* line 228, ../sass/layouts/_responsive.scss */
+  .two-sidebars #content {
+    float: right;
+    width: 200%;
+    margin-right: 100%;
+    margin-left: -300%;
+  }
+  /* line 233, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-first {
+    float: right;
+    width: 100%;
+    margin-right: 0%;
+    margin-left: -100%;
+  }
+  /* line 238, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-second {
+    float: right;
+    width: 300%;
+    margin-right: 0%;
+    margin-left: -300%;
+    padding-left: 0;
+    padding-right: 0;
+    clear: right;
+    /* Apply the shared properties of grid items in a single, efficient ruleset. */
+    /* Span 1 column, starting in the 1st column from left. */
+    /* Span 1 column, starting in the 2nd column from left. */
+    /* Span 1 column, starting in the 3rd column from left. */
+  }
+  /* line 244, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-second .block {
+    padding-left: 0px;
+    padding-right: 0px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    word-wrap: break-word;
+  }
+  /* line 248, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-second .block:nth-child(3n+1) {
+    float: right;
+    width: 100%;
+    margin-right: 0%;
+    margin-left: -100%;
+    clear: right;
+  }
+  /* line 253, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-second .block:nth-child(3n+2) {
+    float: right;
+    width: 100%;
+    margin-right: 100%;
+    margin-left: -200%;
+  }
+  /* line 257, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-second .block:nth-child(3n) {
+    float: right;
+    width: 100%;
+    margin-right: 200%;
+    margin-left: -300%;
+  }
+}
+/**
+ * Use 5 grid columns for larger screens.
+ */
+@media all and (min-width: 960px) {
+  /* line 270, ../sass/layouts/_responsive.scss */
+  #block-block-2 {
+    font-size: 1em;
+    height: 1.5em;
+    padding: 1em;
+    text-align: left;
+  }
+  /* line 275, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-title {
+    float: left;
+  }
+  /* line 278, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-title a {
+    padding-left: 10%;
+  }
+  /* line 282, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-enter {
+    float: left;
+  }
+  /* line 286, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-social {
+    float: right;
+    margin-top: -0.5em;
+  }
+  /* line 291, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-contact {
+    float: right;
+  }
+  /* line 294, ../sass/layouts/_responsive.scss */
+  #block-block-2 .top-contact a {
+    line-height: 1.75em;
+  }
+
+  /* line 300, ../sass/layouts/_responsive.scss */
+  .prize-package .left-side {
+    width: 50%;
+    float: left;
+  }
+  /* line 304, ../sass/layouts/_responsive.scss */
+  .prize-package .right-side {
+    width: 50%;
+    float: right;
+  }
+
+  /* line 310, ../sass/layouts/_responsive.scss */
+  .how-it-works .block__title {
+    font-size: 2.5em;
+    padding: 3em;
+  }
+  /* line 313, ../sass/layouts/_responsive.scss */
+  .how-it-works .block__title span {
+    padding: 0.5em;
+    display: inline;
+  }
+  /* line 318, ../sass/layouts/_responsive.scss */
+  .how-it-works li {
+    font-size: 1.5em;
+  }
+  /* line 320, ../sass/layouts/_responsive.scss */
+  .how-it-works li p {
+    font-size: 0.75em;
+    margin-top: 0.25em;
+  }
+
+  /* line 327, ../sass/layouts/_responsive.scss */
+  .sponsors .block__title {
+    font-size: 2.5em;
+  }
+
+  /* line 332, ../sass/layouts/_responsive.scss */
+  .enter-the-challenge a.enter-link {
+    font-size: 2em;
+    padding: 1em;
+    line-height: 1.77778em;
+    width: 40%;
+  }
+
+  /**
+   * The layout when there is only one sidebar, the left one.
+   */
+  /* line 342, ../sass/layouts/_responsive.scss */
+  .sidebar-first {
+    /* Span 4 columns, starting in 2nd column from left. */
+    /* Span 1 column, starting in 1st column from left. */
+  }
+  /* line 344, ../sass/layouts/_responsive.scss */
+  .sidebar-first #content {
+    float: right;
+    width: 400%;
+    margin-right: 100%;
+    margin-left: -500%;
+  }
+  /* line 349, ../sass/layouts/_responsive.scss */
+  .sidebar-first .region-sidebar-first {
+    float: right;
+    width: 100%;
+    margin-right: 0%;
+    margin-left: -100%;
+  }
+
+  /**
+   * The layout when there is only one sidebar, the right one.
+   */
+  /* line 357, ../sass/layouts/_responsive.scss */
+  .sidebar-second {
+    /* Span 4 columns, starting in 1st column from left. */
+    /* Span 1 column, starting in 5th column from left. */
+  }
+  /* line 359, ../sass/layouts/_responsive.scss */
+  .sidebar-second #content {
+    float: right;
+    width: 400%;
+    margin-right: 0%;
+    margin-left: -400%;
+  }
+  /* line 364, ../sass/layouts/_responsive.scss */
+  .sidebar-second .region-sidebar-second {
+    float: right;
+    width: 100%;
+    margin-right: 400%;
+    margin-left: -500%;
+  }
+
+  /**
+   * The layout when there are two sidebars.
+   */
+  /* line 372, ../sass/layouts/_responsive.scss */
+  .two-sidebars {
+    /* Span 3 columns, starting in 2nd column from left. */
+    /* Span 1 column, starting in 1st column from left. */
+    /* Span 1 column, starting in 5th column from left. */
+  }
+  /* line 374, ../sass/layouts/_responsive.scss */
+  .two-sidebars #content {
+    float: right;
+    width: 300%;
+    margin-right: 100%;
+    margin-left: -400%;
+  }
+  /* line 379, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-first {
+    float: right;
+    width: 100%;
+    margin-right: 0%;
+    margin-left: -100%;
+  }
+  /* line 384, ../sass/layouts/_responsive.scss */
+  .two-sidebars .region-sidebar-second {
+    float: right;
+    width: 100%;
+    margin-right: 400%;
+    margin-left: -500%;
+  }
+}
+/* Component (SMACSS module) rules */
+/**
+ * @file
+ * RTL companion for the modular-styles.css file.
+ */
+/**
+ * Branding header.
+ */
+/* Wrapping link for logo. */
+/* line 11, ../sass/components/_misc-rtl.scss */
+.header__logo {
+  float: right;
+}
+
+/* The secondary menu (login, etc.) */
+/* line 16, ../sass/components/_misc-rtl.scss */
+.header__secondary-menu {
+  float: left;
+}
+
+/**
+ * Navigation bar.
+ */
+/* Main menu and secondary menu links and menu block links. */
+/* line 26, ../sass/components/_misc-rtl.scss */
+#navigation .links,
+#navigation .menu {
+  text-align: right;
+}
+/* line 30, ../sass/components/_misc-rtl.scss */
+#navigation .links li,
+#navigation .menu li {
+  /* A simple method to get navigation links to appear in one line. */
+  float: right;
+  padding: 0 0 0 10px;
+}
+
+/**
+ * Messages.
+ */
+/* line 41, ../sass/components/_misc-rtl.scss */
+.messages, .messages--status, .messages--warning, .messages--error {
+  padding: 10px 50px 10px 10px;
+  background-position: 99% 8px;
+}
+
+/**
+ * Tabs.
+ */
+/* line 58, ../sass/components/_misc-rtl.scss */
+.tabs-primary__tab, .tabs-primary__tab.is-active, .tabs-secondary__tab,
+.tabs-secondary__tab.is-active {
+  float: right;
+}
+
+/**
+ * Inline styles.
+ */
+/* List of links */
+/* line 77, ../sass/components/_misc-rtl.scss */
+.inline li {
+  /* Bug in Safari causes display: inline to fail. */
+  display: inline-block;
+  padding: 0 0 0 1em;
+}
+
+/* The inline field label used by the Fences.module */
+/* line 84, ../sass/components/_misc-rtl.scss */
+span.field-label {
+  padding: 0 0 0 1em;
+}
+
+/**
+ * "More" links.
+ */
+/* line 91, ../sass/components/_misc-rtl.scss */
+.more-link {
+  text-align: left;
+}
+
+/* line 94, ../sass/components/_misc-rtl.scss */
+.more-help-link {
+  text-align: left;
+}
+
+/* line 97, ../sass/components/_misc-rtl.scss */
+.more-help-link a {
+  background-position: 100% 50%;
+  padding: 1px 20px 1px 0;
+}
+
+/**
+ * Menus.
+ */
+/* line 105, ../sass/components/_misc-rtl.scss */
+.menu__item.is-collapsed {
+  list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABNJREFUCB1j4GASYFJgcmD+A4IADUIDfIUMT4wAAAAASUVORK5CYII=');
+}
+
+/**
+ * Comments.
+ */
+/* Nested comments are indented. */
+/* line 117, ../sass/components/_misc-rtl.scss */
+.indented {
+  margin-left: 0;
+  margin-right: 30px;
+}
+
+/**
+ * Forms.
+ */
+/* Drupal's default login form block */
+/* line 127, ../sass/components/_misc-rtl.scss */
+#user-login-form {
+  text-align: right;
+}
+
+/* line 131, ../sass/components/_misc-rtl.scss */
+html.js #user-login-form li.openid-link,
+#user-login-form li.openid-link {
+  /* Un-do some of the padding on the ul list. */
+  margin-left: 0;
+  margin-right: -20px;
+}
+
+/*
+ * Drupal admin tables.
+ */
+/* line 142, ../sass/components/_misc-rtl.scss */
+form th {
+  text-align: right;
+  padding-left: 1em;
+  padding-right: 0;
+}
+
+/**
+ * Collapsible fieldsets.
+ *
+ * @see collapse.js
+ */
+/* line 155, ../sass/components/_misc-rtl.scss */
+html.js .collapsible .fieldset-legend {
+  background-position: 98% 75%;
+  padding-left: 0;
+  padding-right: 15px;
+}
+/* line 160, ../sass/components/_misc-rtl.scss */
+html.js .collapsed .fieldset-legend {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABNJREFUCB1j4GASYFJgcmD+A4IADUIDfIUMT4wAAAAASUVORK5CYII=');
+  background-position: 98% 50%;
+}
+
+/* SMACSS theme rules */
+/* @import "theme-A-rtl"; */
+/* @import "theme-B-rtl"; */
