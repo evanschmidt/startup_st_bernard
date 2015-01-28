@@ -250,7 +250,7 @@
   $zen-column-count:  4;
   $zen-gutter-width:  10px;
   @include zen-nested-container();
-  //@include zen-grid-background();  
+  @include zen-grid-background();  
   .views-column-1 {
     @include zen-grid-item(1, 1);
   }
