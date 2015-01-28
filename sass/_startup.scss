@@ -54,6 +54,23 @@
     }    
   }
 }
+#block-system-user-menu {
+  background: none repeat scroll 0 0 $yellow;
+  ul {
+    margin: 0;
+    padding: 1em;
+  }
+  li {
+    list-style: none;
+    display: inline;
+  }
+ a {
+  color: $dark-blue;
+  margin: 1em;
+  text-align: center;
+  text-decoration: none;
+
+}
 #block-block-3, .welcome {
   background: url('/sites/default/files/images/StartUpStBernard-logoBG.jpg') repeat scroll top center transparent;
   text-align: center;
