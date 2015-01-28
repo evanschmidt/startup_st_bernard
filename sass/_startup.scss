@@ -234,6 +234,14 @@
   font-size: 0.75em;
   text-align: center;
 }
+.page-node-webform-results {
+  table{
+    width: 100%;
+    th {
+      text-align: left;
+    }
+  }
+}
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
