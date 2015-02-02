@@ -247,6 +247,11 @@
     float: left;
     margin: 0 1em 0 0;
 }
+.view-submission-reviews {
+ table {
+    width: 100%;
+ } 
+}
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
