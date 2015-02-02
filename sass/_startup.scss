@@ -242,7 +242,7 @@
     }
   }
 }
-// 
+// committee reviews
 .form-radios .form-item {
     float: left;
     margin: 0 1em 0 0;
@@ -252,6 +252,12 @@
     width: 100%;
  } 
 }
+.node-committee-review {
+  .field {
+    padding-top: 1em;
+  }
+}
+
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
