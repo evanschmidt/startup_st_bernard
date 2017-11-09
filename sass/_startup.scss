@@ -120,7 +120,8 @@
 .prize-package {
     background: none repeat scroll 0 0 $dark-yellow;
    .block__title {
-    background: url("../images/prize_pacakge_bg_yellow.png") repeat scroll 0 0 $dark-yellow;
+    background: url("../images/prize_pacakge_bg_yellow.png") no-repeat scroll 0 0 $dark-yellow;
+    background-size: contain;
     color: white;
     text-align: center;
     padding: 1em;
