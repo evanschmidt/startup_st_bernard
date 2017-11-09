@@ -118,9 +118,9 @@
    }  
  }
 .prize-package {
-    background: url("../images/prize_pacakge_bg_yellow.png") repeat scroll 0 0 $yellow;
+    background: none repeat scroll 0 0 $yellow;
    .block__title {
-    background: none repeat scroll 0 0 $aqua;
+    background: url("../images/prize_pacakge_bg_yellow.png") repeat scroll 0 0 $yellow;
     color: white;
     text-align: center;
     padding: 1em;
