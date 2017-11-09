@@ -118,9 +118,8 @@
    }  
  }
 .prize-package {
-    background: none repeat scroll 0 0 $dark-yellow;
-   .block__title {
     background: url("../images/prize_pacakge_bg_yellow.png") repeat scroll 0 0 $dark-yellow;
+   .block__title {
     color: white;
     text-align: center;
     padding: 1em;
@@ -189,7 +188,7 @@
 }
 .enter-the-challenge {
   background: url("../images/enter_bg_yellow.png") no-repeat scroll bottom center $dark-yellow;
-  color: $aqua;
+  color: $white;
   padding-bottom: 20em;
   text-align: center;
    .block__title {
