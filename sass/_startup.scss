@@ -54,6 +54,25 @@
     }    
   }
 }
+#block-system-user-menu, #block-menu-menu-final-menu {
+  background: none repeat scroll 0 0 $yellow;
+  ul {
+    margin: 0;
+    padding: 1em;
+  }
+  li {
+    list-style: none;
+    display: inline;
+  }
+ a {
+  color: $dark-blue;
+  margin: 1em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  }
+}
 #block-block-3, .welcome {
   background: url('/sites/default/files/images/StartUpStBernard-logoBG.jpg') repeat scroll top center transparent;
   text-align: center;
@@ -68,6 +87,13 @@
     padding-top: 0em;
   }
 }
+.not-front #block-block-3, .not-front .welcome {
+  height: 128px;
+  img {
+    height: 100px;
+  }
+}
+
   .view {
     padding-left: 10%;
     padding-right: 10%;
@@ -215,6 +241,30 @@
   font-size: 0.75em;
   text-align: center;
 }
+.page-node-webform-results {
+  table{
+    width: 100%;
+    th {
+      text-align: left;
+    }
+  }
+}
+// committee reviews
+.form-radios .form-item {
+    float: left;
+    margin: 0 1em 0 0;
+}
+.view-submission-reviews {
+ table {
+    width: 100%;
+ } 
+}
+.node-committee-review {
+  .field {
+    padding-bottom: 0.5em;
+  }
+}
+
 // responsive grid layout
 .views-responsive-grid {
   @include zen-grid-item-base();
