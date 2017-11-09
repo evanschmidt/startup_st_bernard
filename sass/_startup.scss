@@ -120,8 +120,7 @@
 .prize-package {
     background: none repeat scroll 0 0 $dark-yellow;
    .block__title {
-    background: url("../images/prize_pacakge_bg_yellow.png") no-repeat scroll 0 0 $dark-yellow;
-    background-size: contain;
+    background: url("../images/prize_pacakge_bg_yellow.png") no-repeat scroll top center $dark-yellow;
     color: white;
     text-align: center;
     padding: 1em;
@@ -146,7 +145,7 @@
 }
 .how-it-works {
  .block__title {
-    background: url('../images/how_it_works_bg_blue1.png') repeat scroll 0 0 transparent;
+    background: url('../images/how_it_works_bg_blue1.png') repeat scroll top center transparent;
     color: white;
     text-align: center;
       span {
@@ -189,7 +188,7 @@
   }
 }
 .enter-the-challenge {
-  background: url("../images/enter_bg_yellow.png") no-repeat scroll bottom center $dark-yellow;
+  background: url("../images/enter_bg_yellow.png") no-repeat scroll top center $dark-yellow;
   color: white;
   padding-bottom: 20em;
   text-align: center;
@@ -198,7 +197,7 @@
     text-align: center;
     padding: 0;
     span {
-      color: $aqua;
+      //color: $aqua;
     }
    }
    a {
