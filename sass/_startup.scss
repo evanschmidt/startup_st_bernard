@@ -118,7 +118,7 @@
    }  
  }
 .prize-package {
-    background: none repeat scroll 0 0 $light-aqua;
+    background: url("../images/prize_pacakge_bg_yellow.png") repeat scroll 0 0 $yellow;
    .block__title {
     background: none repeat scroll 0 0 $aqua;
     color: white;
@@ -145,7 +145,7 @@
 }
 .how-it-works {
  .block__title {
-    background: url('/sites/default/files/images/StartUpStBernard-worksBG.jpg') repeat scroll 0 0 transparent;
+    background: url('../images/how_it_works_bg_blue1.png') repeat scroll 0 0 transparent;
     color: white;
     text-align: center;
       span {
@@ -188,7 +188,7 @@
   }
 }
 .enter-the-challenge {
-  background: url('/sites/default/files/images/StartUpStBernard-registerBG.jpg') no-repeat scroll bottom center $dark-blue;
+  background: url("../images/enter_bg_yellow.png") no-repeat scroll bottom center $yellow;
   color: $aqua;
   padding-bottom: 20em;
   text-align: center;
